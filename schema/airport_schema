@@ -1,0 +1,14 @@
+airport_id integer
+name string
+city string
+country string
+iato string
+icao string
+lattitude decimal(18,9)
+longitude decimal(18,9)
+altitude decimal(18,9)
+timezone string
+dst string
+tz_database_timezone string
+type string
+source string

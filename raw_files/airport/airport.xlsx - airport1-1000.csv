@@ -1,0 +1,1000 @@
+1,Goroka Airport,Goroka,Papua New Guinea,GKA,AYGA,-6.081689835,145.3919983,5282,10,U,Pacific/Port_Moresby,airport,OurAirports
+2,Madang Airport,Madang,Papua New Guinea,MAG,AYMD,-5.207079887,145.7890015,20,10,U,Pacific/Port_Moresby,airport,OurAirports
+3,Mount Hagen Kagamuga Airport,Mount Hagen,Papua New Guinea,HGU,AYMH,-5.826789856,144.2960052,5388,10,U,Pacific/Port_Moresby,airport,OurAirports
+4,Nadzab Airport,Nadzab,Papua New Guinea,LAE,AYNZ,-6.569803,146.725977,239,10,U,Pacific/Port_Moresby,airport,OurAirports
+5,Port Moresby Jacksons International Airport,Port Moresby,Papua New Guinea,POM,AYPY,-9.443380356,147.2200012,146,10,U,Pacific/Port_Moresby,airport,OurAirports
+6,Wewak International Airport,Wewak,Papua New Guinea,WWK,AYWK,-3.583830118,143.6690063,19,10,U,Pacific/Port_Moresby,airport,OurAirports
+7,Narsarsuaq Airport,Narssarssuaq,Greenland,UAK,BGBW,61.16049957,-45.42599869,112,-3,E,America/Godthab,airport,OurAirports
+8,Godthaab / Nuuk Airport,Godthaab,Greenland,GOH,BGGH,64.19090271,-51.67810059,283,-3,E,America/Godthab,airport,OurAirports
+9,Kangerlussuaq Airport,Sondrestrom,Greenland,SFJ,BGSF,67.0122219,-50.71160316,165,-3,E,America/Godthab,airport,OurAirports
+10,Thule Air Base,Thule,Greenland,THU,BGTL,76.53119659,-68.70320129,251,-4,E,America/Thule,airport,OurAirports
+11,Akureyri Airport,Akureyri,Iceland,AEY,BIAR,65.66000366,-18.0727005,6,0,N,Atlantic/Reykjavik,airport,OurAirports
+12,EgilsstaÃ°ir Airport,Egilsstadir,Iceland,EGS,BIEG,65.28330231,-14.40139961,76,0,N,Atlantic/Reykjavik,airport,OurAirports
+13,HornafjÃ¶rÃ°ur Airport,Hofn,Iceland,HFN,BIHN,64.295601,-15.2272,24,0,N,Atlantic/Reykjavik,airport,OurAirports
+14,HÃºsavÃ­k Airport,Husavik,Iceland,HZK,BIHU,65.952301,-17.426001,48,0,N,Atlantic/Reykjavik,airport,OurAirports
+15,ÃsafjÃ¶rÃ°ur Airport,Isafjordur,Iceland,IFJ,BIIS,66.05809784,-23.13529968,8,0,N,Atlantic/Reykjavik,airport,OurAirports
+16,Keflavik International Airport,Keflavik,Iceland,KEF,BIKF,63.98500061,-22.60560036,171,0,N,Atlantic/Reykjavik,airport,OurAirports
+17,PatreksfjÃ¶rÃ°ur Airport,Patreksfjordur,Iceland,PFJ,BIPA,65.555801,-23.965,11,0,N,Atlantic/Reykjavik,airport,OurAirports
+18,Reykjavik Airport,Reykjavik,Iceland,RKV,BIRK,64.12999725,-21.94059944,48,0,N,Atlantic/Reykjavik,airport,OurAirports
+19,SiglufjÃ¶rÃ°ur Airport,Siglufjordur,Iceland,SIJ,BISI,66.133301,-18.9167,10,0,N,Atlantic/Reykjavik,airport,OurAirports
+20,Vestmannaeyjar Airport,Vestmannaeyjar,Iceland,VEY,BIVM,63.42430115,-20.27890015,326,0,N,Atlantic/Reykjavik,airport,OurAirports
+21,Sault Ste Marie Airport,Sault Sainte Marie,Canada,YAM,CYAM,46.48500061,-84.50939941,630,-5,A,America/Toronto,airport,OurAirports
+22,Winnipeg / St. Andrews Airport,Winnipeg,Canada,\N,CYAV,50.0564003,-97.03250122,760,-6,A,America/Winnipeg,airport,OurAirports
+23,Halifax / CFB Shearwater Heliport,Halifax,Canada,\N,CYAW,44.639702,-63.499401,144,-4,A,America/Halifax,airport,OurAirports
+24,St. Anthony Airport,St. Anthony,Canada,YAY,CYAY,51.39189911,-56.08309937,108,-3.5,A,America/St_Johns,airport,OurAirports
+25,Tofino / Long Beach Airport,Tofino,Canada,YAZ,CYAZ,49.079833,-125.775583,80,-8,A,America/Vancouver,airport,OurAirports
+26,Kugaaruk Airport,Pelly Bay,Canada,YBB,CYBB,68.534401,-89.808098,56,-7,A,America/Edmonton,airport,OurAirports
+27,Baie Comeau Airport,Baie Comeau,Canada,YBC,CYBC,49.13249969,-68.20439911,71,-5,A,America/Toronto,airport,OurAirports
+28,CFB Bagotville,Bagotville,Canada,YBG,CYBG,48.33060074,-70.99639893,522,-5,A,America/Toronto,airport,OurAirports
+29,Baker Lake Airport,Baker Lake,Canada,YBK,CYBK,64.29889679,-96.07779694,59,-6,A,America/Winnipeg,airport,OurAirports
+30,Campbell River Airport,Campbell River,Canada,YBL,CYBL,49.95080185,-125.2710037,346,-8,A,America/Vancouver,airport,OurAirports
+31,Brandon Municipal Airport,Brandon,Canada,YBR,CYBR,49.91,-99.951897,1343,-6,A,America/Winnipeg,airport,OurAirports
+32,Cambridge Bay Airport,Cambridge Bay,Canada,YCB,CYCB,69.10810089,-105.1380005,90,-7,A,America/Edmonton,airport,OurAirports
+33,Nanaimo Airport,Nanaimo,Canada,YCD,CYCD,49.05497022,-123.8698626,92,-8,A,America/Vancouver,airport,OurAirports
+34,Castlegar/West Kootenay Regional Airport,Castlegar,Canada,YCG,CYCG,49.29639816,-117.6320038,1624,-8,A,America/Vancouver,airport,OurAirports
+35,Miramichi Airport,Chatham,Canada,YCH,CYCH,47.007801,-65.449203,108,-4,A,America/Halifax,airport,OurAirports
+36,Charlo Airport,Charlo,Canada,YCL,CYCL,47.990799,-66.330299,132,-4,A,America/Halifax,airport,OurAirports
+37,Kugluktuk Airport,Coppermine,Canada,YCO,CYCO,67.816704,-115.143997,74,-7,A,America/Edmonton,airport,OurAirports
+38,Coronation Airport,Coronation,Canada,YCT,CYCT,52.07500076,-111.4449997,2595,-7,A,America/Edmonton,airport,OurAirports
+39,Chilliwack Airport,Chilliwack,Canada,YCW,CYCW,49.15280151,-121.939003,32,-8,A,America/Vancouver,airport,OurAirports
+40,Clyde River Airport,Clyde River,Canada,YCY,CYCY,70.48609924,-68.51670074,87,-5,A,America/Toronto,airport,OurAirports
+41,Coral Harbour Airport,Coral Harbour,Canada,YZS,CYZS,64.19329834,-83.35939789,210,-5,A,America/Coral_Harbour,airport,OurAirports
+42,Dawson City Airport,Dawson,Canada,YDA,CYDA,64.04309845,-139.128006,1215,-8,A,America/Vancouver,airport,OurAirports
+43,Burwash Airport,Burwash,Canada,YDB,CYDB,61.37110138,-139.0410004,2647,-8,A,America/Vancouver,airport,OurAirports
+44,Princeton Airport,Princeton,Canada,\N,CYDC,49.4681015,-120.5110016,2298,-8,A,America/Vancouver,airport,OurAirports
+45,Deer Lake Airport,Deer Lake,Canada,YDF,CYDF,49.21080017,-57.39139938,72,-3.5,A,America/St_Johns,airport,OurAirports
+46,Dease Lake Airport,Dease Lake,Canada,YDL,CYDL,58.42219925,-130.0319977,2600,-8,A,America/Vancouver,airport,OurAirports
+47,Dauphin Barker Airport,Dauphin,Canada,YDN,CYDN,51.10079956,-100.052002,999,-6,A,America/Winnipeg,airport,OurAirports
+48,Dawson Creek Airport,Dawson Creek,Canada,YDQ,CYDQ,55.74229813,-120.1829987,2148,-7,A,America/Dawson_Creek,airport,OurAirports
+49,Edmonton International Airport,Edmonton,Canada,YEG,CYEG,53.30970001,-113.5800018,2373,-7,A,America/Edmonton,airport,OurAirports
+50,Arviat Airport,Eskimo Point,Canada,YEK,CYEK,61.09420013,-94.07080078,32,-6,A,America/Winnipeg,airport,OurAirports
+51,Estevan Airport,Estevan,Canada,YEN,CYEN,49.21030045,-102.9660034,1905,-6,N,America/Regina,airport,OurAirports
+52,Edson Airport,Edson,Canada,YET,CYET,53.57889938,-116.4649963,3043,-7,A,America/Edmonton,airport,OurAirports
+53,Eureka Airport,Eureka,Canada,YEU,CYEU,79.99469757,-85.81420136,256,-6,A,America/Winnipeg,airport,OurAirports
+54,Inuvik Mike Zubko Airport,Inuvik,Canada,YEV,CYEV,68.30419922,-133.4830017,224,-7,A,America/Edmonton,airport,OurAirports
+55,Iqaluit Airport,Iqaluit,Canada,YFB,CYFB,63.756402,-68.555801,110,-5,A,America/Toronto,airport,OurAirports
+56,Fredericton Airport,Fredericton,Canada,YFC,CYFC,45.8689003,-66.53720093,68,-4,A,America/Halifax,airport,OurAirports
+57,Forestville Airport,Forestville,Canada,YFE,CYFE,48.74610138,-69.09719849,293,-5,A,America/Toronto,airport,OurAirports
+58,Flin Flon Airport,Flin Flon,Canada,YFO,CYFO,54.67810059,-101.6819992,997,-6,A,America/Winnipeg,airport,OurAirports
+59,Fort Resolution Airport,Fort Resolution,Canada,YFR,CYFR,61.18080139,-113.6900024,526,-7,A,America/Edmonton,airport,OurAirports
+60,Fort Simpson Airport,Fort Simpson,Canada,YFS,CYFS,61.7602005,-121.2369995,555,-7,A,America/Edmonton,airport,OurAirports
+61,Kingston Norman Rogers Airport,Kingston,Canada,YGK,CYGK,44.22529984,-76.59690094,305,-5,A,America/Toronto,airport,OurAirports
+62,La Grande RiviÃ¨re Airport,La Grande Riviere,Canada,YGL,CYGL,53.62530136,-77.70420074,639,-5,A,America/Toronto,airport,OurAirports
+63,GaspÃ© (Michel-Pouliot) Airport,Gaspe,Canada,YGP,CYGP,48.77529907,-64.47859955,112,-5,A,America/Toronto,airport,OurAirports
+64,Geraldton Greenstone Regional Airport,Geraldton,Canada,YGQ,CYGQ,49.77830124,-86.93939972,1144,-5,A,America/Toronto,airport,OurAirports
+65,ÃŽles-de-la-Madeleine Airport,Iles De La Madeleine,Canada,YGR,CYGR,47.42470169,-61.77809906,35,-5,A,America/Toronto,airport,OurAirports
+66,Hudson Bay Airport,Hudson Bay,Canada,YHB,CYHB,52.81669998,-102.310997,1175,-6,N,America/Regina,airport,OurAirports
+67,Dryden Regional Airport,Dryden,Canada,YHD,CYHD,49.831699,-92.744202,1354,-6,A,America/Winnipeg,airport,OurAirports
+68,Ulukhaktok Holman Airport,Holman Island,Canada,YHI,CYHI,70.76280212,-117.8059998,117,-7,A,America/Edmonton,airport,OurAirports
+69,Gjoa Haven Airport,Gjoa Haven,Canada,YHK,CYHK,68.63559723,-95.84970093,152,-7,A,America/Edmonton,airport,OurAirports
+70,John C. Munro Hamilton International Airport,Hamilton,Canada,YHM,CYHM,43.17359924,-79.93499756,780,-5,A,America/Toronto,airport,OurAirports
+71,MontrÃ©al / Saint-Hubert Airport,Montreal,Canada,YHU,CYHU,45.51750183,-73.41690063,90,-5,A,America/Toronto,airport,OurAirports
+72,Hay River / Merlyn Carter Airport,Hay River,Canada,YHY,CYHY,60.83969879,-115.7829971,541,-7,A,America/Edmonton,airport,OurAirports
+73,Halifax / Stanfield International Airport,Halifax,Canada,YHZ,CYHZ,44.88079834,-63.50859833,477,-4,A,America/Halifax,airport,OurAirports
+74,Atikokan Municipal Airport,Atikokan,Canada,YIB,CYIB,48.77389908,-91.63860321,1408,-5,A,America/Coral_Harbour,airport,OurAirports
+75,Pond Inlet Airport,Pond Inlet,Canada,YIO,CYIO,72.6832962,-77.96669769,181,-5,A,America/Toronto,airport,OurAirports
+76,St Jean Airport,St. Jean,Canada,YJN,CYJN,45.29439926,-73.28109741,136,-5,A,America/Toronto,airport,OurAirports
+77,Stephenville Airport,Stephenville,Canada,YJT,CYJT,48.5442009,-58.54999924,84,-3.5,A,America/St_Johns,airport,OurAirports
+78,Kamloops Airport,Kamloops,Canada,YKA,CYKA,50.70220184,-120.4440002,1133,-8,A,America/Vancouver,airport,OurAirports
+79,Waterloo Airport,Waterloo,Canada,YKF,CYKF,43.46080017,-80.37860107,1055,-5,A,America/Toronto,airport,OurAirports
+80,Schefferville Airport,Schefferville,Canada,YKL,CYKL,54.80530167,-66.80529785,1709,-5,A,America/Toronto,airport,OurAirports
+81,Kindersley Airport,Kindersley,Canada,YKY,CYKY,51.51750183,-109.1809998,2277,-6,N,America/Regina,airport,OurAirports
+82,Buttonville Municipal Airport,Toronto,Canada,YKZ,CYKZ,43.86220169,-79.37000275,650,-5,A,America/Toronto,airport,OurAirports
+83,Chapleau Airport,Chapleau,Canada,YLD,CYLD,47.81999969,-83.34670258,1470,-5,A,America/Toronto,airport,OurAirports
+84,Meadow Lake Airport,Meadow Lake,Canada,YLJ,CYLJ,54.12530136,-108.5230026,1576,-6,N,America/Regina,airport,OurAirports
+85,Lloydminster Airport,Lloydminster,Canada,YLL,CYLL,53.30920029,-110.072998,2193,-7,A,America/Edmonton,airport,OurAirports
+86,Alert Airport,Alert,Canada,YLT,CYLT,82.51779938,-62.2806015,100,-5,A,America/Toronto,airport,OurAirports
+87,Kelowna International Airport,Kelowna,Canada,YLW,CYLW,49.95610046,-119.3779984,1421,-8,A,America/Vancouver,airport,OurAirports
+88,Mayo Airport,Mayo,Canada,YMA,CYMA,63.61640167,-135.8679962,1653,-8,A,America/Vancouver,airport,OurAirports
+89,Moose Jaw Air Vice Marshal C. M. McEwen Airport,Moose Jaw,Canada,YMJ,CYMJ,50.33029938,-105.5589981,1892,-6,N,America/Regina,airport,OurAirports
+90,Fort McMurray Airport,Fort Mcmurray,Canada,YMM,CYMM,56.65330124,-111.2220001,1211,-7,A,America/Edmonton,airport,OurAirports
+91,Moosonee Airport,Moosonee,Canada,YMO,CYMO,51.29109955,-80.60780334,30,-5,A,America/Toronto,airport,OurAirports
+92,Maniwaki Airport,Maniwaki,Canada,YMW,CYMW,46.27280045,-75.99060059,656,-5,A,America/Toronto,airport,OurAirports
+93,Montreal International (Mirabel) Airport,Montreal,Canada,YMX,CYMX,45.679501,-74.038696,270,-5,A,America/Toronto,airport,OurAirports
+94,Natashquan Airport,Natashquan,Canada,YNA,CYNA,50.18999863,-61.78919983,39,-5,A,America/Toronto,airport,OurAirports
+95,Ottawa / Gatineau Airport,Gatineau,Canada,YND,CYND,45.52170181,-75.56359863,211,-5,A,America/Toronto,airport,OurAirports
+96,Matagami Airport,Matagami,Canada,YNM,CYNM,49.76169968,-77.80280304,918,-5,A,America/Toronto,airport,OurAirports
+97,Old Crow Airport,Old Crow,Canada,YOC,CYOC,67.57060242,-139.8390045,824,-8,A,America/Vancouver,airport,OurAirports
+98,CFB Cold Lake,Cold Lake,Canada,YOD,CYOD,54.40499878,-110.2789993,1775,-7,A,America/Edmonton,airport,OurAirports
+99,High Level Airport,High Level,Canada,YOJ,CYOJ,58.62139893,-117.1650009,1110,-7,A,America/Edmonton,airport,OurAirports
+100,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada,YOW,CYOW,45.32249832,-75.66919708,374,-5,A,America/Toronto,airport,OurAirports
+101,Prince Albert Glass Field,Prince Albert,Canada,YPA,CYPA,53.21419907,-105.6729965,1405,-6,N,America/Regina,airport,OurAirports
+102,Peace River Airport,Peace River,Canada,YPE,CYPE,56.226898,-117.446999,1873,-7,A,America/Edmonton,airport,OurAirports
+103,Southport Airport,Portage-la-prairie,Canada,YPG,CYPG,49.903099,-98.273817,885,-6,A,America/Winnipeg,airport,OurAirports
+104,Pitt Meadows Airport,Pitt Meadows,Canada,\N,CYPK,49.21609879,-122.7099991,11,-8,A,America/Vancouver,airport,OurAirports
+105,Pickle Lake Airport,Pickle Lake,Canada,YPL,CYPL,51.44639969,-90.21420288,1267,-5,A,America/Coral_Harbour,airport,OurAirports
+106,Port Menier Airport,Port Menier,Canada,YPN,CYPN,49.83639908,-64.28859711,167,-5,A,America/Toronto,airport,OurAirports
+107,Peterborough Airport,Peterborough,Canada,YPQ,CYPQ,44.22999954,-78.36329651,628,-5,A,America/Toronto,airport,OurAirports
+108,Prince Rupert Airport,Prince Pupert,Canada,YPR,CYPR,54.28609848,-130.4450073,116,-8,A,America/Vancouver,airport,OurAirports
+109,Fort Chipewyan Airport,Fort Chipewyan,Canada,YPY,CYPY,58.76720047,-111.1169968,761,-7,A,America/Edmonton,airport,OurAirports
+110,Muskoka Airport,Muskoka,Canada,YQA,CYQA,44.97470093,-79.30329895,925,-5,A,America/Toronto,airport,OurAirports
+111,Quebec Jean Lesage International Airport,Quebec,Canada,YQB,CYQB,46.7911,-71.393303,244,-5,A,America/Toronto,airport,OurAirports
+112,Red Deer Regional Airport,Red Deer Industrial,Canada,YQF,CYQF,52.18220139,-113.8939972,2968,-7,A,America/Edmonton,airport,OurAirports
+113,Windsor Airport,Windsor,Canada,YQG,CYQG,42.27560043,-82.95559692,622,-5,A,America/Toronto,airport,OurAirports
+114,Watson Lake Airport,Watson Lake,Canada,YQH,CYQH,60.11640167,-128.8220062,2255,-8,A,America/Vancouver,airport,OurAirports
+115,Kenora Airport,Kenora,Canada,YQK,CYQK,49.78829956,-94.36309814,1332,-6,A,America/Winnipeg,airport,OurAirports
+116,Lethbridge County Airport,Lethbridge,Canada,YQL,CYQL,49.63029861,-112.8000031,3048,-7,A,America/Edmonton,airport,OurAirports
+117,Greater Moncton International Airport,Moncton,Canada,YQM,CYQM,46.11220169,-64.6785965,232,-4,A,America/Halifax,airport,OurAirports
+119,Comox Airport,Comox,Canada,YQQ,CYQQ,49.71080017,-124.887001,84,-8,A,America/Vancouver,airport,OurAirports
+120,Regina International Airport,Regina,Canada,YQR,CYQR,50.43190002,-104.6660004,1894,-6,N,America/Regina,airport,OurAirports
+121,Thunder Bay Airport,Thunder Bay,Canada,YQT,CYQT,48.37189865,-89.32389832,653,-5,A,America/Toronto,airport,OurAirports
+122,Grande Prairie Airport,Grande Prairie,Canada,YQU,CYQU,55.17969894,-118.8850021,2195,-7,A,America/Edmonton,airport,OurAirports
+123,Yorkton Municipal Airport,Yorkton,Canada,YQV,CYQV,51.26470184,-102.461998,1635,-6,N,America/Regina,airport,OurAirports
+124,North Battleford Airport,North Battleford,Canada,YQW,CYQW,52.76919937,-108.2440033,1799,-6,N,America/Regina,airport,OurAirports
+125,Gander International Airport,Gander,Canada,YQX,CYQX,48.93690109,-54.56809998,496,-3.5,A,America/St_Johns,airport,OurAirports
+126,Sydney / J.A. Douglas McCurdy Airport,Sydney,Canada,YQY,CYQY,46.1614,-60.047798,203,-4,A,America/Halifax,airport,OurAirports
+127,Quesnel Airport,Quesnel,Canada,YQZ,CYQZ,53.02610016,-122.5100021,1789,-8,A,America/Vancouver,airport,OurAirports
+128,Resolute Bay Airport,Resolute,Canada,YRB,CYRB,74.71690369,-94.9693985,215,-6,A,America/Winnipeg,airport,OurAirports
+129,RiviÃ¨re-du-Loup Airport,Riviere Du Loup,Canada,YRI,CYRI,47.76440048,-69.58470154,427,-5,A,America/Toronto,airport,OurAirports
+130,Roberval Airport,Roberval,Canada,YRJ,CYRJ,48.52000046,-72.26560211,586,-5,A,America/Toronto,airport,OurAirports
+131,Rocky Mountain House Airport,Rocky Mountain House,Canada,YRM,CYRM,52.42969894,-114.9039993,3244,-7,A,America/Edmonton,airport,OurAirports
+132,Rankin Inlet Airport,Rankin Inlet,Canada,YRT,CYRT,62.81140137,-92.11579895,94,-6,A,America/Winnipeg,airport,OurAirports
+133,Sudbury Airport,Sudbury,Canada,YSB,CYSB,46.625,-80.79889679,1141,-5,A,America/Toronto,airport,OurAirports
+134,Sherbrooke Airport,Sherbrooke,Canada,YSC,CYSC,45.43859863,-71.69139862,792,-5,A,America/Toronto,airport,OurAirports
+135,Saint John Airport,St. John,Canada,YSJ,CYSJ,45.31610107,-65.89029694,357,-4,A,America/Halifax,airport,OurAirports
+136,Fort Smith Airport,Fort Smith,Canada,YSM,CYSM,60.02030182,-111.961998,671,-7,A,America/Edmonton,airport,OurAirports
+137,Nanisivik Airport,Nanisivik,Canada,YSR,CYSR,72.982201,-84.613602,2106,-5,A,America/Toronto,airport,OurAirports
+138,Summerside Airport,Summerside,Canada,YSU,CYSU,46.44060135,-63.83359909,56,-4,A,America/Halifax,airport,OurAirports
+139,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,Sachs Harbour,Canada,YSY,CYSY,71.99389648,-125.2429962,282,-7,A,America/Edmonton,airport,OurAirports
+140,Cape Dorset Airport,Cape Dorset,Canada,YTE,CYTE,64.23000336,-76.52670288,164,-5,A,America/Toronto,airport,OurAirports
+141,Thompson Airport,Thompson,Canada,YTH,CYTH,55.80110168,-97.86419678,729,-6,A,America/Winnipeg,airport,OurAirports
+142,CFB Trenton,Trenton,Canada,YTR,CYTR,44.1189003,-77.52809906,283,-5,A,America/Toronto,airport,OurAirports
+143,Timmins/Victor M. Power,Timmins,Canada,YTS,CYTS,48.56969833,-81.37670136,967,-5,A,America/Toronto,airport,OurAirports
+144,Billy Bishop Toronto City Centre Airport,Toronto,Canada,YTZ,CYTZ,43.627499,-79.396202,252,-5,A,America/Toronto,airport,OurAirports
+145,Tuktoyaktuk Airport,Tuktoyaktuk,Canada,YUB,CYUB,69.4332962,-133.026001,15,-7,A,America/Edmonton,airport,OurAirports
+146,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,YUL,CYUL,45.47060013,-73.74079895,118,-5,A,America/Toronto,airport,OurAirports
+147,Repulse Bay Airport,Repulse Bay,Canada,YUT,CYUT,66.52140045,-86.22470093,80,-6,A,America/Winnipeg,airport,OurAirports
+148,Hall Beach Airport,Hall Beach,Canada,YUX,CYUX,68.77610016,-81.2425,30,-5,A,America/Toronto,airport,OurAirports
+149,Rouyn Noranda Airport,Rouyn,Canada,YUY,CYUY,48.20610046,-78.83560181,988,-5,A,America/Toronto,airport,OurAirports
+150,La Ronge Airport,La Ronge,Canada,YVC,CYVC,55.15140152,-105.262001,1242,-6,N,America/Regina,airport,OurAirports
+151,Vermilion Airport,Vermillion,Canada,YVG,CYVG,53.35580063,-110.8239975,2025,-7,A,America/Edmonton,airport,OurAirports
+152,Qikiqtarjuaq Airport,Broughton Island,Canada,YVM,CYVM,67.54579926,-64.03140259,21,-5,A,America/Toronto,airport,OurAirports
+153,Val-d'Or Airport,Val D'or,Canada,YVO,CYVO,48.05329895,-77.78279877,1107,-5,A,America/Toronto,airport,OurAirports
+154,Kuujjuaq Airport,Quujjuaq,Canada,YVP,CYVP,58.09609985,-68.42690277,129,-5,A,America/Toronto,airport,OurAirports
+155,Norman Wells Airport,Norman Wells,Canada,YVQ,CYVQ,65.28160095,-126.7979965,238,-7,A,America/Edmonton,airport,OurAirports
+156,Vancouver International Airport,Vancouver,Canada,YVR,CYVR,49.19390106,-123.1839981,14,-8,A,America/Vancouver,airport,OurAirports
+157,Buffalo Narrows Airport,Buffalo Narrows,Canada,YVT,CYVT,55.84189987,-108.4179993,1423,-6,N,America/Regina,airport,OurAirports
+158,Wiarton Airport,Wiarton,Canada,YVV,CYVV,44.7458,-81.107201,729,-5,A,America/Toronto,airport,OurAirports
+159,Petawawa Airport,Petawawa,Canada,YWA,CYWA,45.95220184,-77.31919861,427,-5,A,America/Toronto,airport,OurAirports
+160,Winnipeg / James Armstrong Richardson International Airport,Winnipeg,Canada,YWG,CYWG,49.90999985,-97.23989868,783,-6,A,America/Winnipeg,airport,OurAirports
+161,Wabush Airport,Wabush,Canada,YWK,CYWK,52.9219017,-66.86440277,1808,-4,A,America/Halifax,airport,OurAirports
+162,Williams Lake Airport,Williams Lake,Canada,YWL,CYWL,52.18310165,-122.0540009,3085,-8,A,America/Vancouver,airport,OurAirports
+163,Wrigley Airport,Wrigley,Canada,YWY,CYWY,63.20940018,-123.4369965,489,-7,A,America/Edmonton,airport,OurAirports
+164,Cranbrook/Canadian Rockies International Airport,Cranbrook,Canada,YXC,CYXC,49.6108017,-115.7819977,3082,-7,A,America/Edmonton,airport,OurAirports
+165,Edmonton City Centre (Blatchford Field) Airport,Edmonton,Canada,YXD,CYXD,53.57249832,-113.5210037,2202,-7,A,America/Edmonton,airport,OurAirports
+166,Saskatoon John G. Diefenbaker International Airport,Saskatoon,Canada,YXE,CYXE,52.17079926,-106.6999969,1653,-6,N,America/Regina,airport,OurAirports
+167,Medicine Hat Airport,Medicine Hat,Canada,YXH,CYXH,50.01890182,-110.7210007,2352,-7,A,America/Edmonton,airport,OurAirports
+168,Fort St John Airport,Fort Saint John,Canada,YXJ,CYXJ,56.23809814,-120.7399979,2280,-7,A,America/Dawson_Creek,airport,OurAirports
+169,Sioux Lookout Airport,Sioux Lookout,Canada,YXL,CYXL,50.11389923,-91.90529633,1258,-6,A,America/Winnipeg,airport,OurAirports
+170,Pangnirtung Airport,Pangnirtung,Canada,YXP,CYXP,66.14499664,-65.71360016,75,-5,A,America/Toronto,airport,OurAirports
+171,Earlton (Timiskaming Regional) Airport,Earlton,Canada,YXR,CYXR,47.69740065,-79.84734535,800,-5,A,America/Toronto,airport,OurAirports
+172,Prince George Airport,Prince George,Canada,YXS,CYXS,53.88940048,-122.6790009,2267,-8,A,America/Vancouver,airport,OurAirports
+173,Northwest Regional Airport Terrace-Kitimat,Terrace,Canada,YXT,CYXT,54.468498,-128.576009,713,-8,A,America/Vancouver,airport,OurAirports
+174,London Airport,London,Canada,YXU,CYXU,43.035599,-81.1539,912,-5,A,America/Toronto,airport,OurAirports
+175,Abbotsford Airport,Abbotsford,Canada,YXX,CYXX,49.02529907,-122.3610001,195,-8,A,America/Vancouver,airport,OurAirports
+176,Whitehorse / Erik Nielsen International Airport,Whitehorse,Canada,YXY,CYXY,60.70959854,-135.0670013,2317,-8,A,America/Vancouver,airport,OurAirports
+177,North Bay Jack Garland Airport,North Bay,Canada,YYB,CYYB,46.363602,-79.422798,1215,-5,A,America/Toronto,airport,OurAirports
+178,Calgary International Airport,Calgary,Canada,YYC,CYYC,51.11389923,-114.0199966,3557,-7,A,America/Edmonton,airport,OurAirports
+179,Smithers Airport,Smithers,Canada,YYD,CYYD,54.8246994,-127.1829987,1712,-8,A,America/Vancouver,airport,OurAirports
+180,Fort Nelson Airport,Fort Nelson,Canada,YYE,CYYE,58.83639908,-122.5970001,1253,-8,A,America/Vancouver,airport,OurAirports
+181,Penticton Airport,Penticton,Canada,YYF,CYYF,49.46310043,-119.6019974,1129,-8,A,America/Vancouver,airport,OurAirports
+182,Charlottetown Airport,Charlottetown,Canada,YYG,CYYG,46.29000092,-63.12110138,160,-4,A,America/Halifax,airport,OurAirports
+183,Taloyoak Airport,Spence Bay,Canada,YYH,CYYH,69.54669952,-93.5766983,92,-7,A,America/Edmonton,airport,OurAirports
+184,Victoria International Airport,Victoria,Canada,YYJ,CYYJ,48.64690018,-123.4260025,63,-8,A,America/Vancouver,airport,OurAirports
+185,Lynn Lake Airport,Lynn Lake,Canada,YYL,CYYL,56.86389923,-101.0759964,1170,-6,A,America/Winnipeg,airport,OurAirports
+186,Swift Current Airport,Swift Current,Canada,YYN,CYYN,50.29190063,-107.6910019,2680,-6,N,America/Regina,airport,OurAirports
+187,Churchill Airport,Churchill,Canada,YYQ,CYYQ,58.73920059,-94.06500244,94,-6,A,America/Winnipeg,airport,OurAirports
+188,Goose Bay Airport,Goose Bay,Canada,YYR,CYYR,53.31919861,-60.42580032,160,-4,A,America/Halifax,airport,OurAirports
+189,St. John's International Airport,St. John's,Canada,YYT,CYYT,47.61859894,-52.75189972,461,-3.5,A,America/St_Johns,airport,OurAirports
+190,Kapuskasing Airport,Kapuskasing,Canada,YYU,CYYU,49.41389847,-82.46749878,743,-5,A,America/Toronto,airport,OurAirports
+191,Armstrong Airport,Armstrong,Canada,YYW,CYYW,50.29029846,-88.90969849,1058,-5,A,America/Toronto,airport,OurAirports
+192,Mont Joli Airport,Mont Joli,Canada,YYY,CYYY,48.60860062,-68.20809937,172,-5,A,America/Toronto,airport,OurAirports
+193,Lester B. Pearson International Airport,Toronto,Canada,YYZ,CYYZ,43.67720032,-79.63059998,569,-5,A,America/Toronto,airport,OurAirports
+194,Downsview Airport,Toronto,Canada,YZD,CYZD,43.74250031,-79.46559906,652,-5,A,America/Toronto,airport,OurAirports
+195,Gore Bay Manitoulin Airport,Gore Bay,Canada,YZE,CYZE,45.88529968,-82.56780243,635,-5,A,America/Toronto,airport,OurAirports
+196,Yellowknife Airport,Yellowknife,Canada,YZF,CYZF,62.46279907,-114.4400024,675,-7,A,America/Edmonton,airport,OurAirports
+197,Slave Lake Airport,Slave Lake,Canada,YZH,CYZH,55.29309845,-114.7770004,1912,-7,A,America/Edmonton,airport,OurAirports
+198,Sandspit Airport,Sandspit,Canada,YZP,CYZP,53.25429916,-131.8139954,21,-8,A,America/Vancouver,airport,OurAirports
+199,Chris Hadfield Airport,Sarnia,Canada,YZR,CYZR,42.99940109,-82.30889893,594,-5,A,America/Toronto,airport,OurAirports
+200,Port Hardy Airport,Port Hardy,Canada,YZT,CYZT,50.68059921,-127.3669968,71,-8,A,America/Vancouver,airport,OurAirports
+201,Whitecourt Airport,Whitecourt,Canada,YZU,CYZU,54.14390182,-115.7870026,2567,-7,A,America/Edmonton,airport,OurAirports
+202,Sept-ÃŽles Airport,Sept-iles,Canada,YZV,CYZV,50.22330093,-66.26560211,180,-5,A,America/Toronto,airport,OurAirports
+203,Teslin Airport,Teslin,Canada,YZW,CYZW,60.17279816,-132.7429962,2313,-8,A,America/Vancouver,airport,OurAirports
+204,CFB Greenwood,Greenwood,Canada,YZX,CYZX,44.9844017,-64.91690063,92,-4,A,America/Halifax,airport,OurAirports
+205,Faro Airport,Faro,Canada,ZFA,CZFA,62.20750046,-133.3760071,2351,-8,A,America/Vancouver,airport,OurAirports
+206,Fort Mcpherson Airport,Fort Mcpherson,Canada,ZFM,CZFM,67.40750122,-134.8609924,116,-7,A,America/Edmonton,airport,OurAirports
+207,Blida Airport,Blida,Algeria,QLD,DAAB,36.50360107,2.814169884,535,1,N,Africa/Algiers,airport,OurAirports
+208,Bou Saada Airport,Bou Saada,Algeria,BUJ,DAAD,35.33250046,4.206389904,1506,1,N,Africa/Algiers,airport,OurAirports
+209,Soummam Airport,Bejaja,Algeria,BJA,DAAE,36.7120018,5.069920063,20,1,N,Africa/Algiers,airport,OurAirports
+210,Houari Boumediene Airport,Algier,Algeria,ALG,DAAG,36.69100189,3.215409994,82,1,N,Africa/Algiers,airport,OurAirports
+211,Djanet Inedbirene Airport,Djanet,Algeria,DJG,DAAJ,24.292801,9.45244,3176,1,N,Africa/Algiers,airport,OurAirports
+212,Boufarik Airport,Boufarik,Algeria,\N,DAAK,36.545799,2.87611,335,1,N,Africa/Algiers,airport,OurAirports
+213,Reggane Airport,Reggan,Algeria,\N,DAAN,26.7101,0.285647,955,1,N,Africa/Algiers,airport,OurAirports
+214,Illizi Takhamalt Airport,Illizi,Algeria,VVZ,DAAP,26.7234993,8.622650146,1778,1,N,Africa/Algiers,airport,OurAirports
+215,Ain Oussera Airport,Ain Oussera,Algeria,\N,DAAQ,35.52539825,2.878710032,2132,1,N,Africa/Algiers,airport,OurAirports
+216,Aguenar â€“ Hadj Bey Akhamok Airport,Tamanrasset,Algeria,TMR,DAAT,22.81150055,5.451079845,4518,1,N,Africa/Algiers,airport,OurAirports
+217,Jijel Ferhat Abbas Airport,Jijel,Algeria,GJL,DAAV,36.79510117,5.87361002,36,1,N,Africa/Algiers,airport,OurAirports
+218,Mecheria Airport,Mecheria,Algeria,MZW,DAAY,33.53590012,-0.2423530072,3855,1,N,Africa/Algiers,airport,OurAirports
+219,Relizane Airport,Relizane,Algeria,\N,DAAZ,35.752201,0.626272,282,1,N,Africa/Algiers,airport,OurAirports
+220,Rabah Bitat Airport,Annaba,Algeria,AAE,DABB,36.822201,7.809174,16,1,N,Africa/Algiers,airport,OurAirports
+221,Mohamed Boudiaf International Airport,Constantine,Algeria,CZL,DABC,36.27600098,6.620389938,2265,1,N,Africa/Algiers,airport,OurAirports
+222,Cheikh Larbi TÃ©bessi Airport,Tebessa,Algeria,TEE,DABS,35.43159866,8.12071991,2661,1,N,Africa/Algiers,airport,OurAirports
+224,Hassi R'Mel Airport,Tilrempt,Algeria,HRM,DAFH,32.93040085,3.311539888,2540,1,N,Africa/Algiers,airport,OurAirports
+225,Bou Chekif Airport,Tiaret,Algeria,TID,DAOB,35.34109879,1.463150024,3245,1,N,Africa/Algiers,airport,OurAirports
+226,Bou Sfer Airport,Bou Sfer,Algeria,\N,DAOE,35.73540115,-0.8053889871,187,1,N,Africa/Algiers,airport,OurAirports
+227,Tindouf Airport,Tindouf,Algeria,TIN,DAOF,27.7003994,-8.167099953,1453,1,N,Africa/Algiers,airport,OurAirports
+228,Ech Cheliff Airport,Ech-cheliff,Algeria,CFK,DAOI,36.21269989,1.331769943,463,1,N,Africa/Algiers,airport,OurAirports
+229,Tafaraoui Airport,Oran,Algeria,TAF,DAOL,35.54240036,-0.5322780013,367,1,N,Africa/Algiers,airport,OurAirports
+230,Zenata â€“ Messali El Hadj Airport,Tlemcen,Algeria,TLM,DAON,35.01670074,-1.450000048,814,1,N,Africa/Algiers,airport,OurAirports
+231,Es Senia Airport,Oran,Algeria,ORN,DAOO,35.62390137,-0.6211829782,295,1,N,Africa/Algiers,airport,OurAirports
+232,Sidi Bel Abbes Airport,Sidi Bel Abbes,Algeria,BFW,DAOS,35.17179871,-0.5932750106,1614,1,N,Africa/Algiers,airport,OurAirports
+233,Ghriss Airport,Ghriss,Algeria,MUW,DAOV,35.20769882,0.147141993,1686,1,N,Africa/Algiers,airport,OurAirports
+234,Touat Cheikh Sidi Mohamed Belkebir Airport,Adrar,Algeria,AZR,DAUA,27.83760071,-0.1864140034,919,1,N,Africa/Algiers,airport,OurAirports
+235,Biskra Airport,Biskra,Algeria,BSK,DAUB,34.79330063,5.738230228,289,1,N,Africa/Algiers,airport,OurAirports
+236,El Golea Airport,El Golea,Algeria,ELG,DAUE,30.57130051,2.859590054,1306,1,N,Africa/Algiers,airport,OurAirports
+237,NoumÃ©rat - Moufdi Zakaria Airport,Ghardaia,Algeria,GHA,DAUG,32.38410187,3.79411006,1512,1,N,Africa/Algiers,airport,OurAirports
+238,Oued Irara Airport,Hassi Messaoud,Algeria,HME,DAUH,31.67300034,6.140439987,463,1,N,Africa/Algiers,airport,OurAirports
+239,In Salah Airport,In Salah,Algeria,INZ,DAUI,27.25099945,2.512020111,896,1,N,Africa/Algiers,airport,OurAirports
+240,Touggourt Sidi Madhi Airport,Touggourt,Algeria,TGR,DAUK,33.06779861,6.088669777,279,1,N,Africa/Algiers,airport,OurAirports
+241,Laghouat Airport,Laghouat,Algeria,LOO,DAUL,33.76440048,2.928339958,2510,1,N,Africa/Algiers,airport,OurAirports
+242,Timimoun Airport,Timimoun,Algeria,TMX,DAUT,29.2371006,0.2760330141,1027,1,N,Africa/Algiers,airport,OurAirports
+243,Ain el Beida Airport,Ouargla,Algeria,OGX,DAUU,31.91720009,5.412779808,492,1,N,Africa/Algiers,airport,OurAirports
+244,In AmÃ©nas Airport,Zarzaitine,Algeria,IAM,DAUZ,28.0515,9.64291,1847,1,N,Africa/Algiers,airport,OurAirports
+245,Cadjehoun Airport,Cotonou,Benin,COO,DBBB,6.357230186,2.384350061,19,1,N,Africa/Porto-Novo,airport,OurAirports
+246,Ouagadougou Airport,Ouagadougou,Burkina Faso,OUA,DFFD,12.3532,-1.51242,1037,0,N,Africa/Ouagadougou,airport,OurAirports
+247,Bobo Dioulasso Airport,Bobo-dioulasso,Burkina Faso,BOY,DFOO,11.16009998,-4.33096981,1511,0,N,Africa/Ouagadougou,airport,OurAirports
+248,Kotoka International Airport,Accra,Ghana,ACC,DGAA,5.6051898,-0.1667860001,205,0,N,Africa/Accra,airport,OurAirports
+249,Tamale Airport,Tamale,Ghana,TML,DGLE,9.557189941,-0.863214016,553,0,N,Africa/Accra,airport,OurAirports
+250,Wa Airport,Wa,Ghana,\N,DGLW,10.08269978,-2.507689953,1060,0,N,Africa/Accra,airport,OurAirports
+251,Sunyani Airport,Sunyani,Ghana,NYI,DGSN,7.361830235,-2.328759909,1014,0,N,Africa/Accra,airport,OurAirports
+252,Takoradi Airport,Takoradi,Ghana,TKD,DGTK,4.89605999,-1.774760008,21,0,N,Africa/Accra,airport,OurAirports
+253,Port Bouet Airport,Abidjan,Cote d'Ivoire,ABJ,DIAP,5.261390209,-3.926290035,21,0,N,Africa/Abidjan,airport,OurAirports
+254,BouakÃ© Airport,Bouake,Cote d'Ivoire,BYK,DIBK,7.738800049,-5.07366991,1230,0,N,Africa/Abidjan,airport,OurAirports
+255,Daloa Airport,Daloa,Cote d'Ivoire,DJO,DIDL,6.792809963,-6.473189831,823,0,N,Africa/Abidjan,airport,OurAirports
+256,Korhogo Airport,Korhogo,Cote d'Ivoire,HGO,DIKO,9.387180328,-5.556660175,1214,0,N,Africa/Abidjan,airport,OurAirports
+257,Man Airport,Man,Cote d'Ivoire,MJC,DIMN,7.272069931,-7.587359905,1089,0,N,Africa/Abidjan,airport,OurAirports
+258,San Pedro Airport,San Pedro,Cote d'Ivoire,SPY,DISP,4.746719837,-6.660820007,26,0,N,Africa/Abidjan,airport,OurAirports
+259,Yamoussoukro Airport,Yamoussoukro,Cote d'Ivoire,ASK,DIYO,6.903170109,-5.365580082,699,0,N,Africa/Abidjan,airport,OurAirports
+260,Nnamdi Azikiwe International Airport,Abuja,Nigeria,ABV,DNAA,9.006790161,7.263169765,1123,1,N,Africa/Lagos,airport,OurAirports
+261,Akure Airport,Akure,Nigeria,AKR,DNAK,7.246739864,5.301010132,1100,1,N,Africa/Lagos,airport,OurAirports
+262,Benin Airport,Benin,Nigeria,BNI,DNBE,6.316979885,5.599500179,258,1,N,Africa/Lagos,airport,OurAirports
+263,Margaret Ekpo International Airport,Calabar,Nigeria,CBQ,DNCA,4.976019859,8.347200394,210,1,N,Africa/Lagos,airport,OurAirports
+264,Akanu Ibiam International Airport,Enugu,Nigeria,ENU,DNEN,6.474269867,7.56196022,466,1,N,Africa/Lagos,airport,OurAirports
+265,Gusau Airport,Gusau,Nigeria,\N,DNGU,12.1717,6.69611,1520,1,N,Africa/Lagos,airport,OurAirports
+266,Ibadan Airport,Ibadan,Nigeria,IBA,DNIB,7.362460136,3.978329897,725,1,N,Africa/Lagos,airport,OurAirports
+267,Ilorin International Airport,Ilorin,Nigeria,ILR,DNIL,8.440210342,4.493919849,1126,1,N,Africa/Lagos,airport,OurAirports
+268,Yakubu Gowon Airport,Jos,Nigeria,JOS,DNJO,9.639829636,8.869050026,4232,1,N,Africa/Lagos,airport,OurAirports
+269,Kaduna Airport,Kaduna,Nigeria,KAD,DNKA,10.6960001,7.320109844,2073,1,N,Africa/Lagos,airport,OurAirports
+270,Mallam Aminu International Airport,Kano,Nigeria,KAN,DNKN,12.0476,8.52462,1562,1,N,Africa/Lagos,airport,OurAirports
+271,Maiduguri International Airport,Maiduguri,Nigeria,MIU,DNMA,11.85529995,13.08090019,1099,1,N,Africa/Lagos,airport,OurAirports
+272,Makurdi Airport,Makurdi,Nigeria,MDI,DNMK,7.70388,8.61394,371,1,N,Africa/Lagos,airport,OurAirports
+273,Murtala Muhammed International Airport,Lagos,Nigeria,LOS,DNMM,6.577370167,3.321160078,135,1,N,Africa/Lagos,airport,OurAirports
+274,Minna Airport,Minna,Nigeria,MXJ,DNMN,9.652170181,6.462259769,834,1,N,Africa/Lagos,airport,OurAirports
+275,Port Harcourt International Airport,Port Hartcourt,Nigeria,PHC,DNPO,5.015490055,6.949590206,87,1,N,Africa/Lagos,airport,OurAirports
+276,Sadiq Abubakar III International Airport,Sokoto,Nigeria,SKO,DNSO,12.91629982,5.207190037,1010,1,N,Africa/Lagos,airport,OurAirports
+277,Yola Airport,Yola,Nigeria,YOL,DNYO,9.25755024,12.43039989,599,1,N,Africa/Lagos,airport,OurAirports
+278,Zaria Airport,Zaria,Nigeria,ZAR,DNZA,11.1302,7.68581,2170,1,N,Africa/Lagos,airport,OurAirports
+279,Maradi Airport,Maradi,Niger,MFQ,DRRM,13.50249958,7.126749992,1240,1,N,Africa/Niamey,airport,OurAirports
+280,Diori Hamani International Airport,Niamey,Niger,NIM,DRRN,13.4815,2.18361,732,1,N,Africa/Niamey,airport,OurAirports
+281,Tahoua Airport,Tahoua,Niger,THZ,DRRT,14.8757,5.265359879,1266,1,N,Africa/Niamey,airport,OurAirports
+282,Mano Dayak International Airport,Agadez,Niger,AJY,DRZA,16.9659996,8.000109673,1657,1,N,Africa/Niamey,airport,OurAirports
+283,Dirkou Airport,Dirkou,Niger,\N,DRZD,18.96870041,12.86870003,1273,1,N,Africa/Niamey,airport,OurAirports
+284,Diffa Airport,Diffa,Niger,\N,DRZF,13.37290001,12.6267004,994,1,N,Africa/Niamey,airport,OurAirports
+285,Zinder Airport,Zinder,Niger,ZND,DRZR,13.77900028,8.98375988,1516,1,N,Africa/Niamey,airport,OurAirports
+286,Monastir Habib Bourguiba International Airport,Monastir,Tunisia,MIR,DTMB,35.7580986,10.75469971,9,1,E,Africa/Tunis,airport,OurAirports
+287,Tunis Carthage International Airport,Tunis,Tunisia,TUN,DTTA,36.85100174,10.22719955,22,1,E,Africa/Tunis,airport,OurAirports
+288,Sidi Ahmed Air Base,Bizerte,Tunisia,\N,DTTB,37.245398,9.79145,20,1,E,Africa/Tunis,airport,OurAirports
+289,Remada Air Base,Remada,Tunisia,\N,DTTD,32.30619812,10.38210011,1004,1,E,Africa/Tunis,airport,OurAirports
+290,Gafsa Ksar International Airport,Gafsa,Tunisia,GAF,DTTF,34.42200089,8.822500229,1060,1,E,Africa/Tunis,airport,OurAirports
+291,GabÃ¨s Matmata International Airport,Gabes,Tunisia,GAE,DTTG,33.87689972,10.10330009,26,1,E,Africa/Tunis,airport,OurAirports
+292,Borj El Amri Airport,Bordj El Amri,Tunisia,\N,DTTI,36.72129822,9.943149567,110,1,E,Africa/Tunis,airport,OurAirports
+293,Djerba Zarzis International Airport,Djerba,Tunisia,DJE,DTTJ,33.875,10.7755003,19,1,E,Africa/Tunis,airport,OurAirports
+294,El Borma Airport,El Borma,Tunisia,EBM,DTTR,31.70429993,9.254619598,827,1,E,Africa/Tunis,airport,OurAirports
+295,Sfax Thyna International Airport,Sfax,Tunisia,SFA,DTTX,34.7179985,10.69099998,85,1,E,Africa/Tunis,airport,OurAirports
+296,Tozeur Nefta International Airport,Tozeur,Tunisia,TOE,DTTZ,33.93970108,8.110560417,287,1,E,Africa/Tunis,airport,OurAirports
+297,Niamtougou International Airport,Niatougou,Togo,LRL,DXNG,9.76733017,1.091249943,1515,0,N,Africa/Lome,airport,OurAirports
+298,LomÃ©-Tokoin Airport,Lome,Togo,LFW,DXXX,6.165609837,1.254510045,72,0,N,Africa/Lome,airport,OurAirports
+299,Antwerp International Airport (Deurne),Antwerp,Belgium,ANR,EBAW,51.18939972,4.460279942,39,1,E,Europe/Brussels,airport,OurAirports
+300,Beauvechain Air Base,Beauvechain,Belgium,\N,EBBE,50.75859833,4.768330097,370,1,E,Europe/Brussels,airport,OurAirports
+301,Kleine Brogel Air Base,Kleine Brogel,Belgium,\N,EBBL,51.168301,5.47,200,1,E,Europe/Brussels,airport,OurAirports
+302,Brussels Airport,Brussels,Belgium,BRU,EBBR,50.90140152,4.48443985,184,1,E,Europe/Brussels,airport,OurAirports
+303,Jehonville Air Base,Bertrix,Belgium,\N,EBBX,49.89170074,5.223889828,1514,1,E,Europe/Brussels,airport,OurAirports
+304,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,EBCI,50.459202,4.45382,614,1,E,Europe/Brussels,airport,OurAirports
+305,ChiÃ¨vres Air Base,Chievres,Belgium,\N,EBCV,50.57580185,3.83100009,194,1,E,Europe/Brussels,airport,OurAirports
+306,Koksijde Air Base,Koksijde,Belgium,\N,EBFN,51.09030151,2.652780056,20,1,E,Europe/Brussels,airport,OurAirports
+307,Florennes Air Base,Florennes,Belgium,\N,EBFS,50.24330139,4.645830154,935,1,E,Europe/Brussels,airport,OurAirports
+308,Wevelgem Airport,Kortrijk-vevelgem,Belgium,KJK,EBKT,50.81719971,3.20472002,64,1,E,Europe/Brussels,airport,OurAirports
+309,LiÃ¨ge Airport,Liege,Belgium,LGG,EBLG,50.63740158,5.443220139,659,1,E,Europe/Brussels,airport,OurAirports
+310,Ostend-Bruges International Airport,Ostend,Belgium,OST,EBOS,51.19889832,2.862220049,13,1,E,Europe/Brussels,airport,OurAirports
+311,Zutendaal Air Base,Zutendaal,Belgium,\N,EBSL,50.94749832,5.590559959,312,1,E,Europe/Brussels,airport,OurAirports
+312,Brustem Airfield Sint Truiden,Sint-truiden,Belgium,\N,EBST,50.791901,5.20167,246,1,E,Europe/Brussels,airport,OurAirports
+313,Saint Hubert Air Base,St.-hubert,Belgium,\N,EBSU,50.03440094,5.440810204,1930,1,E,Europe/Brussels,airport,OurAirports
+314,Ursel Air Base,Ursel,Belgium,\N,EBUL,51.14419937,3.47555995,95,1,E,Europe/Brussels,airport,OurAirports
+315,Weelde Air Base,Weelde,Belgium,\N,EBWE,51.39479828,4.960189819,105,1,E,Europe/Brussels,airport,OurAirports
+316,Zoersel (Oostmalle) Airfield,Zoersel,Belgium,OBL,EBZR,51.264702,4.75333,53,1,E,Europe/Brussels,airport,OurAirports
+317,Flugplatz Bautzen,Bautzen,Germany,\N,EDAB,51.193611,14.519722,568,1,E,Europe/Berlin,airport,OurAirports
+318,Altenburg-Nobitz Airport,Altenburg,Germany,AOC,EDAC,50.981945,12.506389,640,1,E,Europe/Berlin,airport,OurAirports
+319,Dessau Airfield,Dessau,Germany,\N,EDAD,51.831694,12.190962,187,1,E,Europe/Berlin,airport,OurAirports
+320,EisenhÃ¼ttenstadt Airfield,Eisenhuettenstadt,Germany,\N,EDAE,52.195856,14.58753,144,1,E,Europe/Berlin,airport,OurAirports
+322,GroÃŸenhain Airport,Suhl,Germany,\N,EDAK,51.30805588,13.5555563,417,1,E,Europe/Berlin,airport,OurAirports
+323,Merseburg Airport,Muehlhausen,Germany,\N,EDAM,51.3630556,11.9408333,341,1,E,Europe/Berlin,airport,OurAirports
+324,Halle-Oppin Airport,Halle,Germany,\N,EDAQ,51.552223,12.053889,348,1,E,Europe/Berlin,airport,OurAirports
+325,Riesa-GÃ¶hlis Airport,Riesa,Germany,IES,EDAU,51.29360962,13.35611057,322,1,E,Europe/Berlin,airport,OurAirports
+326,Rechlin-LÃ¤rz Airport,Rechlin-laerz,Germany,REB,EDAX,53.30638886,12.75222206,220,1,E,Europe/Berlin,airport,OurAirports
+327,Strausberg Airport,Strausberg,Germany,\N,EDAY,52.58055496,13.91666698,262,1,E,Europe/Berlin,airport,OurAirports
+328,SchÃ¶nhagen Airport,Schoenhagen,Germany,QXH,EDAZ,52.203609,13.156389,152,1,E,Europe/Berlin,airport,OurAirports
+329,Barth Airport,Barth,Germany,BBH,EDBH,54.338253,12.710515,23,1,E,Europe/Berlin,airport,OurAirports
+330,Jena-SchÃ¶ngleina Airfield,Jena,Germany,\N,EDBJ,50.915279,11.714444,1247,1,E,Europe/Berlin,airport,OurAirports
+331,Kyritz Airport,Kyritz,Germany,\N,EDBK,52.91888809,12.42527771,131,1,E,Europe/Berlin,airport,OurAirports
+332,"Magdeburg ""City"" Airport",Magdeburg,Germany,ZMG,EDBM,52.073612,11.626389,259,1,E,Europe/Berlin,airport,OurAirports
+333,Rothenburg/GÃ¶rlitz Airport,Rothenburg/ol,Germany,\N,EDBR,51.36333466,14.94999981,518,1,E,Europe/Berlin,airport,OurAirports
+334,Anklam Airfield,Anklam,Germany,\N,EDCA,53.832779,13.668611,16,1,E,Europe/Berlin,airport,OurAirports
+335,Cottbus-Drewitz Airport,Cottbus,Germany,CBU,EDCD,51.889442,14.531944,272,1,E,Europe/Berlin,airport,OurAirports
+336,Kamenz Airport,Kamenz,Germany,\N,EDCM,51.29694366,14.12749958,495,1,E,Europe/Berlin,airport,OurAirports
+337,Berlin-SchÃ¶nefeld Airport,Berlin,Germany,SXF,EDDB,52.380001,13.5225,157,1,E,Europe/Berlin,airport,OurAirports
+338,Dresden Airport,Dresden,Germany,DRS,EDDC,51.13280106,13.76720047,755,1,E,Europe/Berlin,airport,OurAirports
+339,Erfurt Airport,Erfurt,Germany,ERF,EDDE,50.97980118,10.95810032,1036,1,E,Europe/Berlin,airport,OurAirports
+340,Frankfurt am Main Airport,Frankfurt,Germany,FRA,EDDF,50.033333,8.570556,364,1,E,Europe/Berlin,airport,OurAirports
+341,MÃ¼nster OsnabrÃ¼ck Airport,Munster,Germany,FMO,EDDG,52.13460159,7.684830189,160,1,E,Europe/Berlin,airport,OurAirports
+342,Hamburg Airport,Hamburg,Germany,HAM,EDDH,53.63040161,9.988229752,53,1,E,Europe/Berlin,airport,OurAirports
+343,Berlin-Tempelhof International Airport,Berlin,Germany,THF,EDDI,52.47299957,13.40390015,167,1,E,Europe/Berlin,airport,OurAirports
+344,Cologne Bonn Airport,Cologne,Germany,CGN,EDDK,50.86589813,7.142739773,302,1,E,Europe/Berlin,airport,OurAirports
+345,DÃ¼sseldorf Airport,Duesseldorf,Germany,DUS,EDDL,51.289501,6.76678,147,1,E,Europe/Berlin,airport,OurAirports
+346,Munich Airport,Munich,Germany,MUC,EDDM,48.353802,11.7861,1487,1,E,Europe/Berlin,airport,OurAirports
+347,Nuremberg Airport,Nuernberg,Germany,NUE,EDDN,49.498699,11.078056,1046,1,E,Europe/Berlin,airport,OurAirports
+348,Leipzig/Halle Airport,Leipzig,Germany,LEJ,EDDP,51.423889,12.236389,465,1,E,Europe/Berlin,airport,OurAirports
+349,SaarbrÃ¼cken Airport,Saarbruecken,Germany,SCN,EDDR,49.21459961,7.109509945,1058,1,E,Europe/Berlin,airport,OurAirports
+350,Stuttgart Airport,Stuttgart,Germany,STR,EDDS,48.68989944,9.221960068,1276,1,E,Europe/Berlin,airport,OurAirports
+351,Berlin-Tegel Airport,Berlin,Germany,TXL,EDDT,52.5597,13.2877,122,1,E,Europe/Berlin,airport,OurAirports
+352,Hannover Airport,Hannover,Germany,HAJ,EDDV,52.46110153,9.685079575,183,1,E,Europe/Berlin,airport,OurAirports
+353,Bremen Airport,Bremen,Germany,BRE,EDDW,53.04750061,8.786669731,14,1,E,Europe/Berlin,airport,OurAirports
+354,Frankfurt-Egelsbach Airport,Egelsbach,Germany,QEF,EDFE,49.959999,8.645833,384,1,E,Europe/Berlin,airport,OurAirports
+355,Frankfurt-Hahn Airport,Hahn,Germany,HHN,EDFH,49.9487,7.26389,1649,1,E,Europe/Berlin,airport,OurAirports
+356,Mannheim-City Airport,Mannheim,Germany,MHG,EDFM,49.473057,8.514167,308,1,E,Europe/Berlin,airport,OurAirports
+357,Allendorf/Eder Airport,Allendorf,Germany,\N,EDFQ,51.03499985,8.680832863,1158,1,E,Europe/Berlin,airport,OurAirports
+358,Worms Airport,Worms,Germany,\N,EDFV,49.606945,8.368333,295,1,E,Europe/Berlin,airport,OurAirports
+359,Mainz-Finthen Airport,Mainz,Germany,\N,EDFZ,49.967499,8.147222,525,1,E,Europe/Berlin,airport,OurAirports
+360,Eisenach-Kindel Airport,Eisenach,Germany,EIB,EDGE,50.991604,10.47973,1112,1,E,Europe/Berlin,airport,OurAirports
+361,Siegerland Airport,Siegerland,Germany,SGE,EDGS,50.70769882,8.082969666,1966,1,E,Europe/Berlin,airport,OurAirports
+362,Hamburg-Finkenwerder Airport,Hamburg,Germany,XFW,EDHI,53.53527832,9.83555603,23,1,E,Europe/Berlin,airport,OurAirports
+363,Kiel-Holtenau Airport,Kiel,Germany,KEL,EDHK,54.37944412,10.14527798,102,1,E,Europe/Berlin,airport,OurAirports
+364,LÃ¼beck Blankensee Airport,Luebeck,Germany,LBC,EDHL,53.80540085,10.71920013,53,1,E,Europe/Berlin,airport,OurAirports
+365,Flugplatz Dahlemer Binz,Dahlemer Binz,Germany,\N,EDKV,50.40555573,6.528889179,1896,1,E,Europe/Berlin,airport,OurAirports
+366,Meinerzhagen Airport,Meinerzhagen,Germany,\N,EDKZ,51.09999847,7.599999905,1549,1,E,Europe/Berlin,airport,OurAirports
+367,Arnsberg-Menden Airport,Arnsberg,Germany,\N,EDLA,51.48389053,7.898333073,794,1,E,Europe/Berlin,airport,OurAirports
+368,Essen Mulheim Airport,Essen,Germany,ESS,EDLE,51.40230179,6.937329769,424,1,E,Europe/Berlin,airport,OurAirports
+369,Bielefeld Airport,Bielefeld,Germany,BFE,EDLI,51.964722,8.544444,454,1,E,Europe/Berlin,airport,OurAirports
+370,MÃ¶nchengladbach Airport,Moenchengladbach,Germany,MGL,EDLN,51.230278,6.504444,125,1,E,Europe/Berlin,airport,OurAirports
+371,Paderborn Lippstadt Airport,Paderborn,Germany,PAD,EDLP,51.61410141,8.616319656,699,1,E,Europe/Berlin,airport,OurAirports
+372,Stadtlohn-Vreden Airport,Stadtlohn,Germany,\N,EDLS,51.99583435,6.840556145,157,1,E,Europe/Berlin,airport,OurAirports
+373,Dortmund Airport,Dortmund,Germany,DTM,EDLW,51.5182991,7.612239838,425,1,E,Europe/Berlin,airport,OurAirports
+374,Augsburg Airport,Augsburg,Germany,AGB,EDMA,48.425278,10.931667,1516,1,E,Europe/Berlin,airport,OurAirports
+375,Biberach a.d. RiÃŸ Airfield,Biberach,Germany,\N,EDMB,48.111111,9.762778,1903,1,E,Europe/Berlin,airport,OurAirports
+376,Eggenfelden Airport,Eggenfelden,Germany,\N,EDME,48.39611053,12.72361088,1342,1,E,Europe/Berlin,airport,OurAirports
+377,Mindelheim-Mattsies Airfield,Mindelheim,Germany,\N,EDMN,48.106945,10.525,1857,1,E,Europe/Berlin,airport,OurAirports
+378,Oberpfaffenhofen Airport,Oberpfaffenhofen,Germany,OBF,EDMO,48.081402,11.2831,1947,1,E,Europe/Berlin,airport,OurAirports
+379,Straubing Airport,Straubing,Germany,RBM,EDMS,48.90083313,12.51666737,1047,1,E,Europe/Berlin,airport,OurAirports
+380,Vilshofen Airport,Vilshofen,Germany,\N,EDMV,48.63499832,13.19555569,991,1,E,Europe/Berlin,airport,OurAirports
+381,Leutkirch-Unterzeil Airport,Leutkirch,Germany,\N,EDNL,47.85889053,10.01416683,2100,1,E,Europe/Berlin,airport,OurAirports
+382,Friedrichshafen Airport,Friedrichshafen,Germany,FDH,EDNY,47.67129898,9.511489868,1367,1,E,Europe/Berlin,airport,OurAirports
+383,Schwerin Parchim Airport,Parchim,Germany,SZW,EDOP,53.426998,11.7834,166,1,E,Europe/Berlin,airport,OurAirports
+384,Stendal-Borstel Airport,Stendal,Germany,\N,EDOV,52.62888718,11.81861115,184,1,E,Europe/Berlin,airport,OurAirports
+385,Aalen-Heidenheim/Elchingen Airport,Aalen-heidenheim,Germany,\N,EDPA,48.77777863,10.26472187,1916,1,E,Europe/Berlin,airport,OurAirports
+386,Bayreuth Airport,Bayreuth,Germany,BYU,EDQD,49.985001,11.64,1601,1,E,Europe/Berlin,airport,OurAirports
+387,Burg Feuerstein Airport,Burg Feuerstein,Germany,URD,EDQE,49.79416656,11.13361073,1673,1,E,Europe/Berlin,airport,OurAirports
+388,Hof-Plauen Airport,Hof,Germany,HOQ,EDQM,50.28861237,11.85638905,1959,1,E,Europe/Berlin,airport,OurAirports
+389,HaÃŸfurt-Schweinfurt Airport,Hassfurt,Germany,\N,EDQT,50.01805496,10.52944374,719,1,E,Europe/Berlin,airport,OurAirports
+390,Koblenz-Winningen Airfield,Koblenz,Germany,\N,EDRK,50.325558,7.528611,640,1,E,Europe/Berlin,airport,OurAirports
+391,Trier-FÃ¶hren Airport,Trier,Germany,\N,EDRT,49.863888,6.7875,666,1,E,Europe/Berlin,airport,OurAirports
+392,Speyer Airfield,Speyer,Germany,\N,EDRY,49.304722,8.451389,312,1,E,Europe/Berlin,airport,OurAirports
+393,ZweibrÃ¼cken Airport,Zweibruecken,Germany,ZQW,EDRZ,49.2094,7.40056,1132,1,E,Europe/Berlin,airport,OurAirports
+394,Donaueschingen-Villingen Airport,Donaueschingen,Germany,ZQL,EDTD,47.97333145,8.522221565,2231,1,E,Europe/Berlin,airport,OurAirports
+395,Freiburg i. Br. Airport,Freiburg,Germany,\N,EDTF,48.02277756,7.832499981,801,1,E,Europe/Berlin,airport,OurAirports
+396,Mengen-Hohentengen Airport,Mengen,Germany,\N,EDTM,48.05389023,9.372777939,1818,1,E,Europe/Berlin,airport,OurAirports
+397,Adolf WÃ¼rth Airport,Schwaebisch Hall,Germany,\N,EDTY,49.11833191,9.783888817,1299,1,E,Europe/Berlin,airport,OurAirports
+398,Finsterwalde/Schacksdorf Airport,Soest,Germany,\N,EDUS,51.607498,13.743611,384,1,E,Europe/Berlin,airport,OurAirports
+399,Braunschweig-Wolfsburg Airport,Braunschweig,Germany,BWE,EDVE,52.319199,10.5561,295,1,E,Europe/Berlin,airport,OurAirports
+400,Kassel-Calden Airport,Kassel,Germany,KSF,EDVK,51.417273,9.384967,820,1,E,Europe/Berlin,airport,OurAirports
+401,Hildesheim Airport,Hildesheim,Germany,\N,EDVM,52.18138885,9.946389198,292,1,E,Europe/Berlin,airport,OurAirports
+402,Bremerhaven Airport,Bremerhaven,Germany,BRV,EDWB,53.506943,8.572778,10,1,E,Europe/Berlin,airport,OurAirports
+403,Emden Airport,Emden,Germany,EME,EDWE,53.391109,7.2275,3,1,E,Europe/Berlin,airport,OurAirports
+404,Leer-Papenburg Airport,Leer,Germany,\N,EDWF,53.27194214,7.44166708,3,1,E,Europe/Berlin,airport,OurAirports
+405,Wilhelmshaven-Mariensiel Airport,Wilhelmshaven,Germany,WVN,EDWI,53.50222015,8.052222252,16,1,E,Europe/Berlin,airport,OurAirports
+406,Borkum Airport,Borkum,Germany,BMK,EDWR,53.59639,6.709167,3,1,E,Europe/Berlin,airport,OurAirports
+407,Norderney Airport,Norderney,Germany,NRD,EDWY,53.70694351,7.230000019,7,1,E,Europe/Berlin,airport,OurAirports
+408,Flensburg-SchÃ¤ferhaus Airport,Flensburg,Germany,FLF,EDXF,54.7733345,9.378889084,131,1,E,Europe/Berlin,airport,OurAirports
+409,Rendsburg-Schachtholm Airport,Rendsburg,Germany,\N,EDXR,54.22000122,9.599444389,23,1,E,Europe/Berlin,airport,OurAirports
+410,Westerland Sylt Airport,Westerland,Germany,GWT,EDXW,54.91320038,8.340470314,51,1,E,Europe/Berlin,airport,OurAirports
+411,Ã„mari Air Base,Armari Air Force Base,Estonia,\N,EEEI,59.26029968,24.20849991,65,2,E,Europe/Tallinn,airport,OurAirports
+412,KÃ¤rdla Airport,Kardla,Estonia,KDL,EEKA,58.99079895,22.83069992,18,2,E,Europe/Tallinn,airport,OurAirports
+413,Kuressaare Airport,Kuressaare,Estonia,URE,EEKE,58.22990036,22.5095005,14,2,E,Europe/Tallinn,airport,OurAirports
+414,PÃ¤rnu Airport,Parnu,Estonia,EPU,EEPU,58.41899872,24.4727993,47,2,E,Europe/Tallinn,airport,OurAirports
+415,Lennart Meri Tallinn Airport,Tallinn-ulemiste International,Estonia,TLL,EETN,59.41329956,24.83279991,131,2,E,Europe/Tallinn,airport,OurAirports
+416,Tartu Airport,Tartu,Estonia,TAY,EETU,58.30749893,26.69039917,219,2,E,Europe/Tallinn,airport,OurAirports
+417,Enontekio Airport,Enontekio,Finland,ENF,EFET,68.36260223,23.42429924,1005,2,E,Europe/Helsinki,airport,OurAirports
+418,Eura Airport,Eura,Finland,\N,EFEU,61.11610031,22.20140076,259,2,E,Europe/Helsinki,airport,OurAirports
+419,Halli Airport,Halli,Finland,KEV,EFHA,61.856039,24.786686,479,2,E,Europe/Helsinki,airport,OurAirports
+420,Helsinki Malmi Airport,Helsinki,Finland,HEM,EFHF,60.25460052,25.0428009,57,2,E,Europe/Helsinki,airport,OurAirports
+421,Helsinki Vantaa Airport,Helsinki,Finland,HEL,EFHK,60.31719971,24.9633007,179,2,E,Europe/Helsinki,airport,OurAirports
+422,Hameenkyro Airport,Hameenkyro,Finland,\N,EFHM,61.68970108,23.07369995,449,2,E,Europe/Helsinki,airport,OurAirports
+423,Hanko Airport,Hanko,Finland,\N,EFHN,59.84889984,23.08359909,20,2,E,Europe/Helsinki,airport,OurAirports
+424,HyvinkÃ¤Ã¤ Airfield,Hyvinkaa,Finland,HYV,EFHV,60.65439987,24.8810997,430,2,E,Europe/Helsinki,airport,OurAirports
+425,Kiikala Airport,Kikala,Finland,\N,EFIK,60.46250153,23.65250015,381,2,E,Europe/Helsinki,airport,OurAirports
+426,Immola Airport,Immola,Finland,\N,EFIM,61.24919891,28.90369987,338,2,E,Europe/Helsinki,airport,OurAirports
+427,Kitee Airport,Kitee,Finland,KTQ,EFIT,62.1661,30.073601,364,2,E,Europe/Helsinki,airport,OurAirports
+428,Ivalo Airport,Ivalo,Finland,IVL,EFIV,68.6072998,27.40530014,481,2,E,Europe/Helsinki,airport,OurAirports
+429,Joensuu Airport,Joensuu,Finland,JOE,EFJO,62.66289902,29.60750008,398,2,E,Europe/Helsinki,airport,OurAirports
+430,Jyvaskyla Airport,Jyvaskyla,Finland,JYV,EFJY,62.3995018,25.67830086,459,2,E,Europe/Helsinki,airport,OurAirports
+431,Kauhava Airport,Kauhava,Finland,KAU,EFKA,63.127102,23.051399,151,2,E,Europe/Helsinki,airport,OurAirports
+432,Kemi-Tornio Airport,Kemi,Finland,KEM,EFKE,65.77870178,24.58209991,61,2,E,Europe/Helsinki,airport,OurAirports
+433,Kajaani Airport,Kajaani,Finland,KAJ,EFKI,64.28549957,27.69239998,483,2,E,Europe/Helsinki,airport,OurAirports
+434,Kauhajoki Airport,Kauhajoki,Finland,KHJ,EFKJ,62.46250153,22.39310074,407,2,E,Europe/Helsinki,airport,OurAirports
+435,Kokkola-Pietarsaari Airport,Kruunupyy,Finland,KOK,EFKK,63.72119904,23.14310074,84,2,E,Europe/Helsinki,airport,OurAirports
+436,Kemijarvi Airport,Kemijarvi,Finland,\N,EFKM,66.712898,27.156799,692,2,E,Europe/Helsinki,airport,OurAirports
+437,Kuusamo Airport,Kuusamo,Finland,KAO,EFKS,65.98760223,29.23940086,866,2,E,Europe/Helsinki,airport,OurAirports
+438,KittilÃ¤ Airport,Kittila,Finland,KTT,EFKT,67.7009964,24.84679985,644,2,E,Europe/Helsinki,airport,OurAirports
+439,Kuopio Airport,Kuopio,Finland,KUO,EFKU,63.00709915,27.79780006,323,2,E,Europe/Helsinki,airport,OurAirports
+440,Lahti Vesivehmaa Airport,Vesivehmaa,Finland,QLF,EFLA,61.144199,25.693501,502,2,E,Europe/Helsinki,airport,OurAirports
+441,Lappeenranta Airport,Lappeenranta,Finland,LPP,EFLP,61.044601,28.144743,349,2,E,Europe/Helsinki,airport,OurAirports
+442,Mariehamn Airport,Mariehamn,Finland,MHQ,EFMA,60.12220001,19.89819908,17,2,E,Europe/Mariehamn,airport,OurAirports
+443,Menkijarvi Airport,Menkijarvi,Finland,\N,EFME,62.94670105,23.51889992,331,2,E,Europe/Helsinki,airport,OurAirports
+444,Mikkeli Airport,Mikkeli,Finland,MIK,EFMI,61.6866,27.201799,329,2,E,Europe/Helsinki,airport,OurAirports
+445,Nummela Airport,Nummela,Finland,\N,EFNU,60.33390045,24.29640007,367,2,E,Europe/Helsinki,airport,OurAirports
+446,Oulu Airport,Oulu,Finland,OUL,EFOU,64.93009949,25.35460091,47,2,E,Europe/Helsinki,airport,OurAirports
+447,Piikajarvi Airport,Piikajarvi,Finland,\N,EFPI,61.24560165,22.19339943,148,2,E,Europe/Helsinki,airport,OurAirports
+448,Pori Airport,Pori,Finland,POR,EFPO,61.46170044,21.79999924,44,2,E,Europe/Helsinki,airport,OurAirports
+449,PudasjÃ¤rvi Airport,Pudasjarvi,Finland,\N,EFPU,65.40219879,26.94689941,397,2,E,Europe/Helsinki,airport,OurAirports
+450,PyhÃ¤salmi Airport,Pyhasalmi,Finland,\N,EFPY,63.73189926,25.92630005,528,2,E,Europe/Helsinki,airport,OurAirports
+451,Raahe Pattijoki Airport,Pattijoki,Finland,\N,EFRH,64.68810272,24.69580078,118,2,E,Europe/Helsinki,airport,OurAirports
+452,Rantasalmi Airport,Rantasalmi,Finland,\N,EFRN,62.06549835,28.35650063,292,2,E,Europe/Helsinki,airport,OurAirports
+453,Rovaniemi Airport,Rovaniemi,Finland,RVN,EFRO,66.56479645,25.83040047,642,2,E,Europe/Helsinki,airport,OurAirports
+454,Rayskala Airport,Rayskala,Finland,\N,EFRY,60.74470139,24.10779953,407,2,E,Europe/Helsinki,airport,OurAirports
+455,Savonlinna Airport,Savonlinna,Finland,SVL,EFSA,61.94309998,28.94510078,311,2,E,Europe/Helsinki,airport,OurAirports
+456,Selanpaa Airport,Selanpaa,Finland,\N,EFSE,61.06240082,26.7989006,417,2,E,Europe/Helsinki,airport,OurAirports
+457,Sodankyla Airport,Sodankyla,Finland,SOT,EFSO,67.39499664,26.61910057,602,2,E,Europe/Helsinki,airport,OurAirports
+458,Tampere-Pirkkala Airport,Tampere,Finland,TMP,EFTP,61.41410065,23.60440063,390,2,E,Europe/Helsinki,airport,OurAirports
+459,Teisko Airport,Teisko,Finland,\N,EFTS,61.7733,24.027,515,2,E,Europe/Helsinki,airport,OurAirports
+460,Turku Airport,Turku,Finland,TKU,EFTU,60.51409912,22.26280022,161,2,E,Europe/Helsinki,airport,OurAirports
+461,Utti Air Base,Utti,Finland,UTI,EFUT,60.89640045,26.93840027,339,2,E,Europe/Helsinki,airport,OurAirports
+462,Vaasa Airport,Vaasa,Finland,VAA,EFVA,63.05070114,21.7621994,19,2,E,Europe/Helsinki,airport,OurAirports
+463,Varkaus Airport,Varkaus,Finland,VRK,EFVR,62.17110062,27.86860085,286,2,E,Europe/Helsinki,airport,OurAirports
+464,Ylivieska Airfield,Ylivieska-raudaskyla,Finland,YLI,EFYL,64.0547222,24.7252778,252,2,E,Europe/Helsinki,airport,OurAirports
+465,Belfast International Airport,Belfast,United Kingdom,BFS,EGAA,54.65750122,-6.215829849,268,0,E,Europe/London,airport,OurAirports
+466,St Angelo Airport,Enniskillen,United Kingdom,ENK,EGAB,54.39889908,-7.651669979,155,0,E,Europe/London,airport,OurAirports
+467,George Best Belfast City Airport,Belfast,United Kingdom,BHD,EGAC,54.61809921,-5.872499943,15,0,E,Europe/London,airport,OurAirports
+468,City of Derry Airport,Londonderry,United Kingdom,LDY,EGAE,55.0428009,-7.161109924,22,0,E,Europe/London,airport,OurAirports
+469,Birmingham International Airport,Birmingham,United Kingdom,BHX,EGBB,52.45389938,-1.748029947,327,0,E,Europe/London,airport,OurAirports
+470,Coventry Airport,Coventry,United Kingdom,CVT,EGBE,52.36970139,-1.479719996,267,0,E,Europe/London,airport,OurAirports
+471,Leicester Airport,Leicester,United Kingdom,\N,EGBG,52.60779953,-1.031939983,469,0,E,Europe/London,airport,OurAirports
+472,Gloucestershire Airport,Golouchestershire,United Kingdom,GLO,EGBJ,51.89419937,-2.167220116,101,0,E,Europe/London,airport,OurAirports
+474,Wolverhampton Halfpenny Green Airport,Halfpenny Green,United Kingdom,\N,EGBO,52.51750183,-2.259439945,283,0,E,Europe/London,airport,OurAirports
+475,Cotswold Airport,Pailton,United Kingdom,GBA,EGBP,51.668095,-2.05694,433,0,E,Europe/London,airport,OurAirports
+476,Turweston Airport,Turweston,United Kingdom,\N,EGBT,52.04079819,-1.095559955,448,0,E,Europe/London,airport,OurAirports
+477,Wellesbourne Mountford Airport,Wellesbourne,United Kingdom,\N,EGBW,52.19219971,-1.614439964,159,0,E,Europe/London,airport,OurAirports
+478,Manchester Airport,Manchester,United Kingdom,MAN,EGCC,53.35369873,-2.274950027,257,0,E,Europe/London,airport,OurAirports
+479,Manchester Woodford Airport,Woodfort,United Kingdom,\N,EGCD,53.3381,-2.14889,295,0,E,Europe/London,airport,OurAirports
+480,Royal Marines Base Chivenor Airport,Chivenor,United Kingdom,\N,EGDC,51.08720016,-4.15034008,27,0,E,Europe/London,airport,OurAirports
+481,Newquay Cornwall Airport,Newquai,United Kingdom,NQY,EGHQ,50.44060135,-4.995409966,390,0,E,Europe/London,airport,OurAirports
+482,RAF Lyneham,Lyneham,United Kingdom,LYE,EGDL,51.5051,-1.99343,513,0,E,Europe/London,airport,OurAirports
+483,MoD Boscombe Down Airport,Boscombe Down,United Kingdom,\N,EGDM,51.15219879,-1.747410059,407,0,E,Europe/London,airport,OurAirports
+484,RNAS Culdrose,Culdrose,United Kingdom,\N,EGDR,50.08610153,-5.255710125,267,0,E,Europe/London,airport,OurAirports
+485,MoD St. Athan,St. Athan,United Kingdom,\N,EGDX,51.4048,-3.43575,163,0,E,Europe/London,airport,OurAirports
+486,RNAS Yeovilton,Yeovilton,United Kingdom,YEO,EGDY,51.00939941,-2.638819933,75,0,E,Europe/London,airport,OurAirports
+487,Haverfordwest Airport,Haverfordwest,United Kingdom,HAW,EGFE,51.83309937,-4.961110115,159,0,E,Europe/London,airport,OurAirports
+488,Cardiff International Airport,Cardiff,United Kingdom,CWL,EGFF,51.39670181,-3.343329906,220,0,E,Europe/London,airport,OurAirports
+489,Swansea Airport,Swansea,United Kingdom,SWS,EGFH,51.6053009,-4.067830086,299,0,E,Europe/London,airport,OurAirports
+490,Bristol Airport,Bristol,United Kingdom,BRS,EGGD,51.382702,-2.71909,622,0,E,Europe/London,airport,OurAirports
+491,Liverpool John Lennon Airport,Liverpool,United Kingdom,LPL,EGGP,53.33359909,-2.849720001,80,0,E,Europe/London,airport,OurAirports
+492,London Luton Airport,London,United Kingdom,LTN,EGGW,51.87469864,-0.3683330119,526,0,E,Europe/London,airport,OurAirports
+493,Plymouth City Airport,Plymouth,United Kingdom,PLH,EGHD,50.422798,-4.10583,476,0,E,Europe/London,airport,OurAirports
+494,Bournemouth Airport,Bournemouth,United Kingdom,BOH,EGHH,50.77999878,-1.842499971,38,0,E,Europe/London,airport,OurAirports
+495,Southampton Airport,Southampton,United Kingdom,SOU,EGHI,50.95029831,-1.35679996,44,0,E,Europe/London,airport,OurAirports
+496,Lasham Airport,Lasham,United Kingdom,QLA,EGHL,51.18719864,-1.033499956,618,0,E,Europe/London,airport,OurAirports
+497,Alderney Airport,Alderney,Guernsey,ACI,EGJA,49.706104,-2.21472,290,0,E,Europe/Guernsey,airport,OurAirports
+498,Guernsey Airport,Guernsey,Guernsey,GCI,EGJB,49.43500137,-2.601969957,336,0,E,Europe/Guernsey,airport,OurAirports
+499,Jersey Airport,Jersey,Jersey,JER,EGJJ,49.207901,-2.195509911,277,0,E,Europe/Jersey,airport,OurAirports
+500,Shoreham Airport,Shoreham By Sea,United Kingdom,ESH,EGKA,50.835602,-0.297222,7,0,E,Europe/London,airport,OurAirports
+501,London Biggin Hill Airport,Biggin Hill,United Kingdom,BQH,EGKB,51.3307991,0.03249999881,598,0,E,Europe/London,airport,OurAirports
+502,London Gatwick Airport,London,United Kingdom,LGW,EGKK,51.148102,-0.190278,202,0,E,Europe/London,airport,OurAirports
+503,London City Airport,London,United Kingdom,LCY,EGLC,51.505299,0.055278,19,0,E,Europe/London,airport,OurAirports
+504,Farnborough Airport,Farnborough,United Kingdom,FAB,EGLF,51.2757988,-0.7763329744,238,0,E,Europe/London,airport,OurAirports
+505,Chalgrove Airport,Chalsgrove,United Kingdom,\N,EGLJ,51.67610168,-1.080829978,240,0,E,Europe/London,airport,OurAirports
+506,Blackbushe Airport,Blackbushe,United Kingdom,BBS,EGLK,51.32389832,-0.8475000262,325,0,E,Europe/London,airport,OurAirports
+507,London Heathrow Airport,London,United Kingdom,LHR,EGLL,51.4706,-0.461941,83,0,E,Europe/London,airport,OurAirports
+508,Southend Airport,Southend,United Kingdom,SEN,EGMC,51.57139969,0.695555985,49,0,E,Europe/London,airport,OurAirports
+509,Lydd Airport,Lydd,United Kingdom,LYX,EGMD,50.95610046,0.9391670227,13,0,E,Europe/London,airport,OurAirports
+510,Kent International Airport,Manston,United Kingdom,MSE,EGMH,51.342201,1.34611,178,0,E,Europe/London,airport,OurAirports
+511,Brough Airport,Brough,United Kingdom,\N,EGNB,53.7197,-0.566333,12,0,E,Europe/London,airport,OurAirports
+512,Carlisle Airport,Carlisle,United Kingdom,CAX,EGNC,54.9375,-2.809170008,190,0,E,Europe/London,airport,OurAirports
+513,Retford Gamston Airport,Repton,United Kingdom,\N,EGNE,53.2806015,-0.9513890147,91,0,E,Europe/London,airport,OurAirports
+514,Blackpool International Airport,Blackpool,United Kingdom,BLK,EGNH,53.77170181,-3.028609991,34,0,E,Europe/London,airport,OurAirports
+515,Humberside Airport,Humberside,United Kingdom,HUY,EGNJ,53.57440186,-0.3508329988,121,0,E,Europe/London,airport,OurAirports
+516,Barrow Walney Island Airport,Barrow Island,United Kingdom,BWF,EGNL,54.1286111,-3.2675,173,0,E,Europe/London,airport,OurAirports
+517,Leeds Bradford Airport,Leeds,United Kingdom,LBA,EGNM,53.86589813,-1.660570025,681,0,E,Europe/London,airport,OurAirports
+518,Warton Airport,Warton,United Kingdom,WRT,EGNO,53.745098,-2.88306,55,0,E,Europe/London,airport,OurAirports
+519,Hawarden Airport,Hawarden,United Kingdom,CEG,EGNR,53.17810059,-2.977780104,45,0,E,Europe/London,airport,OurAirports
+520,Isle of Man Airport,Isle Of Man,Isle of Man,IOM,EGNS,54.08330154,-4.623889923,52,0,E,Europe/Isle_of_Man,airport,OurAirports
+521,Newcastle Airport,Newcastle,United Kingdom,NCL,EGNT,55.03749847,-1.691669941,266,0,E,Europe/London,airport,OurAirports
+522,Durham Tees Valley Airport,Teesside,United Kingdom,MME,EGNV,54.50920105,-1.429409981,120,0,E,Europe/London,airport,OurAirports
+523,East Midlands Airport,East Midlands,United Kingdom,EMA,EGNX,52.83110046,-1.328060031,306,0,E,Europe/London,airport,OurAirports
+524,Llanbedr Airport,Llanbedr,United Kingdom,\N,EGOD,52.81169891,-4.123579979,30,0,E,Europe/London,airport,OurAirports
+525,RAF Ternhill,Ternhill,United Kingdom,\N,EGOE,52.87120056,-2.533560038,272,0,E,Europe/London,airport,OurAirports
+526,RAF Shawbury,Shawbury,United Kingdom,\N,EGOS,52.7981987,-2.668040037,249,0,E,Europe/London,airport,OurAirports
+528,RAF Woodvale,Woodvale,United Kingdom,\N,EGOW,53.5816,-3.05552,37,0,E,Europe/London,airport,OurAirports
+529,Kirkwall Airport,Kirkwall,United Kingdom,KOI,EGPA,58.95780182,-2.904999971,50,0,E,Europe/London,airport,OurAirports
+530,Sumburgh Airport,Sumburgh,United Kingdom,LSI,EGPB,59.87889862,-1.295560002,20,0,E,Europe/London,airport,OurAirports
+531,Wick Airport,Wick,United Kingdom,WIC,EGPC,58.45890045,-3.093060017,126,0,E,Europe/London,airport,OurAirports
+532,Aberdeen Dyce Airport,Aberdeen,United Kingdom,ABZ,EGPD,57.20190048,-2.197779894,215,0,E,Europe/London,airport,OurAirports
+533,Inverness Airport,Inverness,United Kingdom,INV,EGPE,57.54249954,-4.047500134,31,0,E,Europe/London,airport,OurAirports
+534,Glasgow International Airport,Glasgow,United Kingdom,GLA,EGPF,55.87189865,-4.433060169,26,0,E,Europe/London,airport,OurAirports
+535,Edinburgh Airport,Edinburgh,United Kingdom,EDI,EGPH,55.95000076,-3.372499943,135,0,E,Europe/London,airport,OurAirports
+536,Islay Airport,Islay,United Kingdom,ILY,EGPI,55.68190002,-6.256669998,56,0,E,Europe/London,airport,OurAirports
+537,Glasgow Prestwick Airport,Prestwick,United Kingdom,PIK,EGPK,55.50939941,-4.586669922,65,0,E,Europe/London,airport,OurAirports
+538,Benbecula Airport,Benbecula,United Kingdom,BEB,EGPL,57.48109818,-7.362780094,19,0,E,Europe/London,airport,OurAirports
+539,Scatsta Airport,Scatsta,United Kingdom,SCS,EGPM,60.43280029,-1.296110034,81,0,E,Europe/London,airport,OurAirports
+540,Dundee Airport,Dundee,United Kingdom,DND,EGPN,56.45249939,-3.02583003,17,0,E,Europe/London,airport,OurAirports
+541,Stornoway Airport,Stornoway,United Kingdom,SYY,EGPO,58.21559906,-6.331110001,26,0,E,Europe/London,airport,OurAirports
+542,Tiree Airport,Tiree,United Kingdom,TRE,EGPU,56.49919891,-6.869170189,38,0,E,Europe/London,airport,OurAirports
+543,RAF Leuchars,Leuchars,United Kingdom,ADX,EGQL,56.3728981,-2.868439913,38,0,E,Europe/London,airport,OurAirports
+544,RAF Lossiemouth,Lossiemouth,United Kingdom,LMO,EGQS,57.7052002,-3.339169979,42,0,E,Europe/London,airport,OurAirports
+545,Cambridge Airport,Cambridge,United Kingdom,CBG,EGSC,52.205002,0.175,47,0,E,Europe/London,airport,OurAirports
+546,Peterborough Business Airport,Peterborough,United Kingdom,\N,EGSF,52.4681015,-0.2511110008,26,0,E,Europe/London,airport,OurAirports
+547,Norwich International Airport,Norwich,United Kingdom,NWI,EGSH,52.67580032,1.282780051,117,0,E,Europe/London,airport,OurAirports
+548,London Stansted Airport,London,United Kingdom,STN,EGSS,51.88499832,0.2349999994,348,0,E,Europe/London,airport,OurAirports
+549,North Weald Airport,North Weald,United Kingdom,\N,EGSX,51.72169876,0.1541669965,321,0,E,Europe/London,airport,OurAirports
+550,Sheffield City Heliport,Fowlmere,United Kingdom,\N,EGSY,53.394299,-1.38849,231,0,E,Europe/London,airport,OurAirports
+551,Cranfield Airport,Cranfield,United Kingdom,\N,EGTC,52.07220078,-0.6166669726,358,0,E,Europe/London,airport,OurAirports
+552,Exeter International Airport,Exeter,United Kingdom,EXT,EGTE,50.7344017,-3.413889885,102,0,E,Europe/London,airport,OurAirports
+553,Bristol Filton Airport,Bristol,United Kingdom,FZO,EGTG,51.51940155,-2.590830088,226,0,E,Europe/London,airport,OurAirports
+554,Oxford (Kidlington) Airport,Oxford,United Kingdom,OXF,EGTK,51.8368988,-1.320000052,270,0,E,Europe/London,airport,OurAirports
+555,RAF Benson,Benson,United Kingdom,BEX,EGUB,51.61640167,-1.095829964,226,0,E,Europe/London,airport,OurAirports
+556,RAF Lakenheath,Lakenheath,United Kingdom,LKZ,EGUL,52.40930176,0.5609999895,32,0,E,Europe/London,airport,OurAirports
+557,RAF Mildenhall,Mildenhall,United Kingdom,MHZ,EGUN,52.36190033,0.4864059985,33,0,E,Europe/London,airport,OurAirports
+558,RAF Wattisham,Wattisham,United Kingdom,\N,EGUW,52.12730026,0.956264019,284,0,E,Europe/London,airport,OurAirports
+559,RAF Wyton,Wyton,United Kingdom,QUY,EGUY,52.35720062,-0.107832998,135,0,E,Europe/London,airport,OurAirports
+560,RAF Fairford,Fairford,United Kingdom,FFD,EGVA,51.68220139,-1.790030003,286,0,E,Europe/London,airport,OurAirports
+561,RAF Brize Norton,Brize Norton,United Kingdom,BZZ,EGVN,51.75,-1.58362,288,0,E,Europe/London,airport,OurAirports
+562,RAF Odiham,Odiham,United Kingdom,ODH,EGVO,51.23410034,-0.9428250194,405,0,E,Europe/London,airport,OurAirports
+563,DCAE Cosford Air Base,Cosford,United Kingdom,\N,EGWC,52.639999,-2.30558,272,0,E,Europe/London,airport,OurAirports
+564,RAF Northolt,Northolt,United Kingdom,NHT,EGWU,51.5530014,-0.418166995,124,0,E,Europe/London,airport,OurAirports
+565,RAF Coningsby,Coningsby,United Kingdom,QCY,EGXC,53.0929985,-0.1660140008,25,0,E,Europe/London,airport,OurAirports
+566,RAF Dishforth,Dishforth,United Kingdom,\N,EGXD,54.1371994,-1.420250058,117,0,E,Europe/London,airport,OurAirports
+567,Leeming Airport,Leeming,United Kingdom,\N,EGXE,54.2924,-1.5354,132,0,E,Europe/London,airport,OurAirports
+568,Leeds East Airport,Church Fenton,United Kingdom,\N,EGXG,53.834301,-1.1955,29,0,E,Europe/London,airport,OurAirports
+569,RAF Honington,Honington,United Kingdom,BEQ,EGXH,52.34260178,0.7729390264,174,0,E,Europe/London,airport,OurAirports
+570,RAF Cottesmore,Cottesmore,United Kingdom,\N,EGXJ,52.735699,-0.648769,461,0,E,Europe/London,airport,OurAirports
+571,RAF Scampton,Scampton,United Kingdom,SQZ,EGXP,53.30780029,-0.5508329868,202,0,E,Europe/London,airport,OurAirports
+572,RAF Wittering,Wittering,United Kingdom,\N,EGXT,52.612598,-0.476453,273,0,E,Europe/London,airport,OurAirports
+573,RAF Linton-On-Ouse,Linton-on-ouse,United Kingdom,HRT,EGXU,54.0489006,-1.252750039,53,0,E,Europe/London,airport,OurAirports
+574,RAF Waddington,Waddington,United Kingdom,WTN,EGXW,53.16619873,-0.5238109827,231,0,E,Europe/London,airport,OurAirports
+575,RAF Topcliffe,Topcliffe,United Kingdom,\N,EGXZ,54.20550156,-1.382089973,92,0,E,Europe/London,airport,OurAirports
+576,RAF Cranwell,Cranwell,United Kingdom,\N,EGYD,53.03030014,-0.4832420051,218,0,E,Europe/London,airport,OurAirports
+577,RAF Barkston Heath,Barkston Heath,United Kingdom,\N,EGYE,52.96220016,-0.5616250038,367,0,E,Europe/London,airport,OurAirports
+578,RAF Marham,Marham,United Kingdom,KNF,EGYM,52.648395,0.550692,75,0,E,Europe/London,airport,OurAirports
+579,Mount Pleasant Airport,Mount Pleasant,Falkland Islands,MPN,EGYP,-51.82279968,-58.44720078,244,-3,U,Atlantic/Stanley,airport,OurAirports
+580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM,52.308601,4.76389,-11,1,E,Europe/Amsterdam,airport,OurAirports
+581,Budel Airfield Kempen,Weert,Netherlands,\N,EHBD,51.255299,5.60139,114,1,E,Europe/Amsterdam,airport,OurAirports
+582,Maastricht Aachen Airport,Maastricht,Netherlands,MST,EHBK,50.911701,5.77014,375,1,E,Europe/Amsterdam,airport,OurAirports
+583,Deelen Air Base,Deelen,Netherlands,\N,EHDL,52.0606,5.87306,158,1,E,Europe/Amsterdam,airport,OurAirports
+584,Drachten Airport,Drachten,Netherlands,\N,EHDR,53.11920166,6.129720211,14,1,E,Europe/Amsterdam,airport,OurAirports
+585,Eindhoven Airport,Eindhoven,Netherlands,EIN,EHEH,51.45009995,5.374529839,74,1,E,Europe/Amsterdam,airport,OurAirports
+586,Eelde Airport,Groningen,Netherlands,GRQ,EHGG,53.11970139,6.579440117,17,1,E,Europe/Amsterdam,airport,OurAirports
+587,Gilze Rijen Air Base,Gilze-rijen,Netherlands,GLZ,EHGR,51.56740189,4.931829929,49,1,E,Europe/Amsterdam,airport,OurAirports
+588,De Kooy Airport,De Kooy,Netherlands,DHR,EHKD,52.92340088,4.780620098,3,1,E,Europe/Amsterdam,airport,OurAirports
+589,Lelystad Airport,Lelystad,Netherlands,LEY,EHLE,52.4603,5.52722,-13,1,E,Europe/Amsterdam,airport,OurAirports
+590,Leeuwarden Air Base,Leeuwarden,Netherlands,LWR,EHLW,53.22859955,5.760560036,3,1,E,Europe/Amsterdam,airport,OurAirports
+591,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,EHRD,51.956902,4.43722,-15,1,E,Europe/Amsterdam,airport,OurAirports
+592,Soesterberg Air Base,Soesterberg,Netherlands,UTC,EHSB,52.12730026,5.276189804,66,1,E,Europe/Amsterdam,airport,OurAirports
+593,Twente Airport,Enschede,Netherlands,ENS,EHTW,52.275833,6.889167,114,1,E,Europe/Amsterdam,airport,OurAirports
+594,Valkenburg Naval Air Base,Valkenburg,Netherlands,LID,EHVB,52.16609955,4.41794014,1,1,E,Europe/Amsterdam,airport,OurAirports
+595,Woensdrecht Air Base,Woensdrecht,Netherlands,WOE,EHWO,51.4491,4.34203,63,1,E,Europe/Amsterdam,airport,OurAirports
+596,Cork Airport,Cork,Ireland,ORK,EICK,51.84130096,-8.491109848,502,0,E,Europe/Dublin,airport,OurAirports
+597,Galway Airport,Galway,Ireland,GWY,EICM,53.30020142,-8.941590309,81,0,E,Europe/Dublin,airport,OurAirports
+599,Dublin Airport,Dublin,Ireland,DUB,EIDW,53.421299,-6.27007,242,0,E,Europe/Dublin,airport,OurAirports
+600,Ireland West Knock Airport,Connaught,Ireland,NOC,EIKN,53.91030121,-8.818490028,665,0,E,Europe/Dublin,airport,OurAirports
+601,Kerry Airport,Kerry,Ireland,KIR,EIKY,52.18090057,-9.523779869,112,0,E,Europe/Dublin,airport,OurAirports
+602,Casement Air Base,Casement,Ireland,\N,EIME,53.30170059,-6.451330185,319,0,E,Europe/Dublin,airport,OurAirports
+603,Shannon Airport,Shannon,Ireland,SNN,EINN,52.702,-8.92482,46,0,E,Europe/Dublin,airport,OurAirports
+604,Sligo Airport,Sligo,Ireland,SXL,EISG,54.28020096,-8.599209785,11,0,E,Europe/Dublin,airport,OurAirports
+605,Waterford Airport,Waterford,Ireland,WAT,EIWF,52.18719864,-7.086959839,119,0,E,Europe/Dublin,airport,OurAirports
+607,Aarhus Airport,Aarhus,Denmark,AAR,EKAH,56.29999924,10.61900043,82,1,E,Europe/Copenhagen,airport,OurAirports
+608,Billund Airport,Billund,Denmark,BLL,EKBI,55.74029922,9.151780128,247,1,E,Europe/Copenhagen,airport,OurAirports
+609,Copenhagen Kastrup Airport,Copenhagen,Denmark,CPH,EKCH,55.61790085,12.65600014,17,1,E,Europe/Copenhagen,airport,OurAirports
+610,Esbjerg Airport,Esbjerg,Denmark,EBJ,EKEB,55.525902,8.5534,97,1,E,Europe/Copenhagen,airport,OurAirports
+611,GrÃ¸nholt HillerÃ¸d Airport,Gronholt,Denmark,\N,EKGH,55.94139862,12.38220024,97,1,E,Europe/Copenhagen,airport,OurAirports
+612,Karup Airport,Karup,Denmark,KRP,EKKA,56.29750061,9.124629974,170,1,E,Europe/Copenhagen,airport,OurAirports
+613,LÃ¦sÃ¸ Airport,Laeso,Denmark,BYR,EKLS,57.27719879,11.00010014,25,1,E,Europe/Copenhagen,airport,OurAirports
+614,Lolland Falster Maribo Airport,Maribo,Denmark,MRW,EKMB,54.699299,11.4401,16,1,E,Europe/Copenhagen,airport,OurAirports
+615,Odense Airport,Odense,Denmark,ODE,EKOD,55.47669983,10.33090019,56,1,E,Europe/Copenhagen,airport,OurAirports
+616,KrusÃ¥-Padborg Airport,Krusa-padborg,Denmark,\N,EKPB,54.87030029,9.279009819,88,1,E,Europe/Copenhagen,airport,OurAirports
+617,Copenhagen Roskilde Airport,Copenhagen,Denmark,RKE,EKRK,55.58560181,12.13140011,146,1,E,Europe/Copenhagen,airport,OurAirports
+618,Bornholm Airport,Ronne,Denmark,RNN,EKRN,55.06330109,14.75959969,52,1,E,Europe/Copenhagen,airport,OurAirports
+619,SÃ¸nderborg Airport,Soenderborg,Denmark,SGD,EKSB,54.96440125,9.791729927,24,1,E,Europe/Copenhagen,airport,OurAirports
+621,Skrydstrup Air Base,Skrydstrup,Denmark,SKS,EKSP,55.221048,9.26702,141,1,E,Europe/Copenhagen,airport,OurAirports
+622,Skive Airport,Skive,Denmark,SQW,EKSV,56.55020142,9.172980309,74,1,E,Europe/Copenhagen,airport,OurAirports
+623,Thisted Airport,Thisted,Denmark,TED,EKTS,57.06880188,8.705220222,23,1,E,Europe/Copenhagen,airport,OurAirports
+624,Kolding Vamdrup Airfield,Kolding,Denmark,\N,EKVD,55.436298,9.33092,143,1,E,Europe/Copenhagen,airport,OurAirports
+625,Vagar Airport,Vagar,Faroe Islands,FAE,EKVG,62.06359863,-7.277219772,280,0,E,Atlantic/Faeroe,airport,OurAirports
+626,Vesthimmerlands Flyveplads,Vesthimmerland,Denmark,\N,EKVH,56.846901,9.45861,119,1,E,Europe/Copenhagen,airport,OurAirports
+627,Stauning Airport,Stauning,Denmark,STA,EKVJ,55.99010086,8.353910446,17,1,E,Europe/Copenhagen,airport,OurAirports
+628,Aalborg Airport,Aalborg,Denmark,AAL,EKYT,57.09275891,9.849243164,10,1,E,Europe/Copenhagen,airport,OurAirports
+629,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,ELLX,49.6233333,6.2044444,1234,1,E,Europe/Luxembourg,airport,OurAirports
+630,Ã…lesund Airport,Alesund,Norway,AES,ENAL,62.5625,6.119699955,69,1,E,Europe/Oslo,airport,OurAirports
+631,AndÃ¸ya Airport,Andoya,Norway,ANX,ENAN,69.29250336,16.14419937,43,1,E,Europe/Oslo,airport,OurAirports
+632,Alta Airport,Alta,Norway,ALF,ENAT,69.97609711,23.37170029,9,1,E,Europe/Oslo,airport,OurAirports
+633,BÃ¸moen Airport,Voss,Norway,\N,ENBM,60.63890076,6.50150013,300,1,E,Europe/Oslo,airport,OurAirports
+634,BrÃ¸nnÃ¸ysund Airport,Bronnoysund,Norway,BNN,ENBN,65.46109772,12.21749973,25,1,E,Europe/Oslo,airport,OurAirports
+635,BodÃ¸ Airport,Bodo,Norway,BOO,ENBO,67.26920319,14.36530018,42,1,E,Europe/Oslo,airport,OurAirports
+636,Bergen Airport Flesland,Bergen,Norway,BGO,ENBR,60.29339981,5.218140125,170,1,E,Europe/Oslo,airport,OurAirports
+637,BÃ¥tsfjord Airport,Batsfjord,Norway,BJF,ENBS,70.60050201,29.69140053,490,1,E,Europe/Oslo,airport,OurAirports
+638,Kristiansand Airport,Kristiansand,Norway,KRS,ENCN,58.204201,8.08537,57,1,E,Europe/Oslo,airport,OurAirports
+639,Geilo Airport Dagali,Geilo,Norway,DLD,ENDI,60.41730118,8.518349648,2618,1,E,Europe/Oslo,airport,OurAirports
+640,Bardufoss Airport,Bardufoss,Norway,BDU,ENDU,69.05580139,18.54039955,252,1,E,Europe/Oslo,airport,OurAirports
+641,"Harstad/Narvik Airport, Evenes",Harstad/Narvik,Norway,EVE,ENEV,68.49130249,16.67810059,84,1,E,Europe/Oslo,airport,OurAirports
+642,Leirin Airport,Fagernes,Norway,VDB,ENFG,61.0155983,9.288060188,2697,1,E,Europe/Oslo,airport,OurAirports
+643,FlorÃ¸ Airport,Floro,Norway,FRO,ENFL,61.58359909,5.024720192,37,1,E,Europe/Oslo,airport,OurAirports
+644,Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502,681,1,E,Europe/Oslo,airport,OurAirports
+645,Haugesund Airport,Haugesund,Norway,HAU,ENHD,59.34529877,5.208360195,86,1,E,Europe/Oslo,airport,OurAirports
+646,Hasvik Airport,Hasvik,Norway,HAA,ENHK,70.48670197,22.13969994,21,1,E,Europe/Oslo,airport,OurAirports
+647,Kristiansund Airport (Kvernberget),Kristiansund,Norway,KSU,ENKB,63.11180115,7.824520111,204,1,E,Europe/Oslo,airport,OurAirports
+648,Kjeller Airport,Kjeller,Norway,\N,ENKJ,59.96929932,11.03610039,354,1,E,Europe/Oslo,airport,OurAirports
+649,Kirkenes Airport (HÃ¸ybuktmoen),Kirkenes,Norway,KKN,ENKR,69.72579956,29.8913002,283,1,E,Europe/Oslo,airport,OurAirports
+650,Lista Airport,Farsund,Norway,FAN,ENLI,58.09949875,6.626049995,29,1,E,Europe/Oslo,airport,OurAirports
+651,Molde Airport,Molde,Norway,MOL,ENML,62.74470139,7.262499809,10,1,E,Europe/Oslo,airport,OurAirports
+652,MosjÃ¸en Airport (KjÃ¦rstad),Mosjoen,Norway,MJF,ENMS,65.78399658,13.21490002,237,1,E,Europe/Oslo,airport,OurAirports
+653,Banak Airport,Lakselv,Norway,LKL,ENNA,70.06880188,24.9734993,25,1,E,Europe/Oslo,airport,OurAirports
+654,Notodden Airport,Notodden,Norway,NTB,ENNO,59.565701,9.21222,63,1,E,Europe/Oslo,airport,OurAirports
+655,Ã˜rland Airport,Orland,Norway,OLA,ENOL,63.69889832,9.604000092,28,1,E,Europe/Oslo,airport,OurAirports
+656,RÃ¸ros Airport,Roros,Norway,RRS,ENRO,62.57839966,11.34230042,2054,1,E,Europe/Oslo,airport,OurAirports
+657,"Moss Airport, Rygge",Rygge,Norway,RYG,ENRY,59.378817,10.785439,174,1,E,Europe/Oslo,airport,OurAirports
+658,"Svalbard Airport, Longyear",Svalbard,Norway,LYR,ENSB,78.24610138,15.46560001,88,1,E,Arctic/Longyearbyen,airport,OurAirports
+659,Skien Airport,Skien,Norway,SKE,ENSN,59.18500137,9.566940308,463,1,E,Europe/Oslo,airport,OurAirports
+660,Stord Airport,Stord,Norway,SRP,ENSO,59.79190063,5.340849876,160,1,E,Europe/Oslo,airport,OurAirports
+662,SandnessjÃ¸en Airport (Stokka),Sandnessjoen,Norway,SSJ,ENST,65.95680237,12.46889973,56,1,E,Europe/Oslo,airport,OurAirports
+663,"TromsÃ¸ Airport,",Tromso,Norway,TOS,ENTC,69.6832962,18.91889954,31,1,E,Europe/Oslo,airport,OurAirports
+664,"Sandefjord Airport, Torp",Sandefjord,Norway,TRF,ENTO,59.18669891,10.25860024,286,1,E,Europe/Oslo,airport,OurAirports
+665,Trondheim Airport VÃ¦rnes,Trondheim,Norway,TRD,ENVA,63.4578018,10.9239998,56,1,E,Europe/Oslo,airport,OurAirports
+666,Stavanger Airport Sola,Stavanger,Norway,SVG,ENZV,58.87670135,5.63778019,29,1,E,Europe/Oslo,airport,OurAirports
+667,Babice Airport,Warsaw,Poland,\N,EPBC,52.26850128,20.9109993,352,1,E,Europe/Warsaw,airport,OurAirports
+668,GdaÅ„sk Lech WaÅ‚Ä™sa Airport,Gdansk,Poland,GDN,EPGD,54.37760162,18.46619987,489,1,E,Europe/Warsaw,airport,OurAirports
+669,KrakÃ³w John Paul II International Airport,Krakow,Poland,KRK,EPKK,50.077702,19.7848,791,1,E,Europe/Warsaw,airport,OurAirports
+670,Muchowiec Airport,Katowice,Poland,\N,EPKM,50.23809814,19.03420067,909,1,E,Europe/Warsaw,airport,OurAirports
+671,Katowice International Airport,Katowice,Poland,KTW,EPKT,50.4743,19.08,995,1,E,Europe/Warsaw,airport,OurAirports
+673,Mielec Airport,Mielec,Poland,\N,EPML,50.32229996,21.46209908,548,1,E,Europe/Warsaw,airport,OurAirports
+674,PoznaÅ„-Åawica Airport,Poznan,Poland,POZ,EPPO,52.42100143,16.82629967,308,1,E,Europe/Warsaw,airport,OurAirports
+675,RzeszÃ³w-Jasionka Airport,Rzeszow,Poland,RZE,EPRZ,50.11000061,22.0189991,675,1,E,Europe/Warsaw,airport,OurAirports
+676,"Szczecin-GoleniÃ³w ""SolidarnoÅ›Ä‡"" Airport",Szczecin,Poland,SZZ,EPSC,53.58470154,14.90219975,154,1,E,Europe/Warsaw,airport,OurAirports
+677,Redzikowo Air Base,Slupsk,Poland,OSP,EPSK,54.47890091,17.10750008,217,1,E,Europe/Warsaw,airport,OurAirports
+678,Swidwin Military Air Base,Shapaja,Poland,\N,EPSN,53.79059982,15.82629967,385,1,E,Europe/Warsaw,airport,OurAirports
+679,Warsaw Chopin Airport,Warsaw,Poland,WAW,EPWA,52.16569901,20.96710014,362,1,E,Europe/Warsaw,airport,OurAirports
+680,Copernicus WrocÅ‚aw Airport,Wroclaw,Poland,WRO,EPWR,51.10269928,16.88579941,404,1,E,Europe/Warsaw,airport,OurAirports
+681,Zielona GÃ³ra-Babimost Airport,Zielona Gora,Poland,IEG,EPZG,52.13850021,15.7986002,194,1,E,Europe/Warsaw,airport,OurAirports
+682,Malmen Air Base,Linkoeping,Sweden,\N,ESCF,58.40230179,15.52569962,308,1,E,Europe/Stockholm,airport,OurAirports
+683,BrÃ¥valla Air Base,Norrkoeping,Sweden,\N,ESCK,58.61090088,16.10359955,90,1,E,Europe/Stockholm,airport,OurAirports
+684,Uppsala Airport,Uppsala,Sweden,\N,ESCM,59.89730072,17.58860016,68,1,E,Europe/Stockholm,airport,OurAirports
+685,Ronneby Airport,Ronneby,Sweden,RNB,ESDF,56.26670074,15.26500034,191,1,E,Europe/Stockholm,airport,OurAirports
+686,RÃ¥da Air Base,Rada,Sweden,\N,ESFR,58.49810028,13.05319977,230,1,E,Europe/Stockholm,airport,OurAirports
+687,Gothenburg-Landvetter Airport,Gothenborg,Sweden,GOT,ESGG,57.66279984,12.27980042,506,1,E,Europe/Stockholm,airport,OurAirports
+688,JÃ¶nkÃ¶ping Airport,Joenkoeping,Sweden,JKG,ESGJ,57.75759888,14.06869984,741,1,E,Europe/Stockholm,airport,OurAirports
+689,FalkÃ¶ping Airport,Falkoping,Sweden,\N,ESGK,58.1697998,13.58780003,785,1,E,Europe/Stockholm,airport,OurAirports
+690,LidkÃ¶ping-Hovby Airport,Lidkoping,Sweden,LDK,ESGL,58.4655,13.1744,200,1,E,Europe/Stockholm,airport,OurAirports
+691,Gothenburg City Airport,Gothenborg,Sweden,GSE,ESGP,57.7747,11.8704,59,1,E,Europe/Stockholm,airport,OurAirports
+692,SkÃ¶vde Airport,Skovde,Sweden,KVB,ESGR,58.45640182,13.97270012,324,1,E,Europe/Stockholm,airport,OurAirports
+693,TrollhÃ¤ttan-VÃ¤nersborg Airport,Trollhattan,Sweden,THN,ESGT,58.31809998,12.34500027,137,1,E,Europe/Stockholm,airport,OurAirports
+694,Karlsborg Air Base,Karlsborg,Sweden,\N,ESIA,58.51380157,14.50710011,308,1,E,Europe/Stockholm,airport,OurAirports
+695,SÃ¥tenÃ¤s Air Base,Satenas,Sweden,\N,ESIB,58.42639923,12.71440029,181,1,E,Europe/Stockholm,airport,OurAirports
+696,Barkarby Airport,Stockholm,Sweden,\N,ESKB,59.41447436,17.8821373,50,1,E,Europe/Stockholm,airport,OurAirports
+697,Karlskoga Airport,Karlskoga,Sweden,KSK,ESKK,59.34590149,14.49590015,400,1,E,Europe/Stockholm,airport,OurAirports
+698,Mora Airport,Mora,Sweden,MXX,ESKM,60.957901,14.5114,634,1,E,Europe/Stockholm,airport,OurAirports
+699,Stockholm Skavsta Airport,Stockholm,Sweden,NYO,ESKN,58.78860092,16.91220093,140,1,E,Europe/Stockholm,airport,OurAirports
+700,Arvika Airport,Arvika,Sweden,\N,ESKV,59.6759,12.6394,237,1,E,Europe/Stockholm,airport,OurAirports
+701,Emmaboda Airfield,Emmaboda,Sweden,\N,ESMA,56.610802,15.6048,442,1,E,Europe/Stockholm,airport,OurAirports
+702,Feringe Airport,Ljungby,Sweden,\N,ESMG,56.95029831,13.92169952,538,1,E,Europe/Stockholm,airport,OurAirports
+703,Kristianstad Airport,Kristianstad,Sweden,KID,ESMK,55.92169952,14.08549976,76,1,E,Europe/Stockholm,airport,OurAirports
+704,Landskrona Airport,Landskrona,Sweden,\N,ESML,55.94599915,12.86999989,194,1,E,Europe/Stockholm,airport,OurAirports
+705,Oskarshamn Airport,Oskarshamn,Sweden,OSK,ESMO,57.350498,16.497999,96,1,E,Europe/Stockholm,airport,OurAirports
+706,Anderstorp Airport,Anderstorp,Sweden,\N,ESMP,57.2641983,13.59939957,507,1,E,Europe/Stockholm,airport,OurAirports
+707,Kalmar Airport,Kalkmar,Sweden,KLR,ESMQ,56.6855011,16.28759956,17,1,E,Europe/Stockholm,airport,OurAirports
+708,MalmÃ¶ Sturup Airport,Malmoe,Sweden,MMX,ESMS,55.53630536,13.37619781,236,1,E,Europe/Stockholm,airport,OurAirports
+709,Halmstad Airport,Halmstad,Sweden,HAD,ESMT,56.69110107,12.82019997,101,1,E,Europe/Stockholm,airport,OurAirports
+710,Hagshult Air Base,Hagshult,Sweden,\N,ESMV,57.292198,14.1372,556,1,E,Europe/Stockholm,airport,OurAirports
+711,VÃ¤xjÃ¶ Kronoberg Airport,Vaxjo,Sweden,VXO,ESMX,56.92910004,14.72799969,610,1,E,Europe/Stockholm,airport,OurAirports
+712,Hallviken Airport,Hallviken,Sweden,\N,ESNA,63.73830032,15.45829964,1119,1,E,Europe/Stockholm,airport,OurAirports
+713,Hedlanda Airport,Hede,Sweden,\N,ESNC,62.40890121,13.74720001,1460,1,E,Europe/Stockholm,airport,OurAirports
+714,Sveg Airport,Sveg,Sweden,EVG,ESND,62.04779816,14.4229002,1178,1,E,Europe/Stockholm,airport,OurAirports
+715,GÃ¤llivare Airport,Gallivare,Sweden,GEV,ESNG,67.13240051,20.81459999,1027,1,E,Europe/Stockholm,airport,OurAirports
+716,Hudiksvall Airport,Hudiksvall,Sweden,HUV,ESNH,61.76810074,17.08069992,95,1,E,Europe/Stockholm,airport,OurAirports
+717,Jokkmokk Airport,Jokkmokk,Sweden,\N,ESNJ,66.49620056,20.14719963,904,1,E,Europe/Stockholm,airport,OurAirports
+718,Kramfors SollefteÃ¥ Airport,Kramfors,Sweden,KRF,ESNK,63.04859924,17.76889992,34,1,E,Europe/Stockholm,airport,OurAirports
+719,Lycksele Airport,Lycksele,Sweden,LYC,ESNL,64.5483017,18.71619987,705,1,E,Europe/Stockholm,airport,OurAirports
+720,Optand Airport,Optand,Sweden,\N,ESNM,63.12860107,14.80280018,1236,1,E,Europe/Stockholm,airport,OurAirports
+721,Sundsvall-HÃ¤rnÃ¶sand Airport,Sundsvall,Sweden,SDL,ESNN,62.52809906,17.44389915,16,1,E,Europe/Stockholm,airport,OurAirports
+722,Ã–rnskÃ¶ldsvik Airport,Ornskoldsvik,Sweden,OER,ESNO,63.40829849,18.98999977,354,1,E,Europe/Stockholm,airport,OurAirports
+723,PiteÃ¥ Airport,Pitea,Sweden,\N,ESNP,65.39830017,21.26079941,43,1,E,Europe/Stockholm,airport,OurAirports
+724,Kiruna Airport,Kiruna,Sweden,KRN,ESNQ,67.8219986,20.33679962,1508,1,E,Europe/Stockholm,airport,OurAirports
+725,Orsa Airport,Orsa,Sweden,\N,ESNR,61.18999863,14.71259975,683,1,E,Europe/Stockholm,airport,OurAirports
+726,SkellefteÃ¥ Airport,Skelleftea,Sweden,SFT,ESNS,64.62480164,21.07690048,157,1,E,Europe/Stockholm,airport,OurAirports
+727,SÃ¤ttna Airport,Sattna,Sweden,\N,ESNT,62.4814,17.002899,886,1,E,Europe/Stockholm,airport,OurAirports
+728,UmeÃ¥ Airport,Umea,Sweden,UME,ESNU,63.79180145,20.28280067,24,1,E,Europe/Stockholm,airport,OurAirports
+729,Vilhelmina Airport,Vilhelmina,Sweden,VHM,ESNV,64.57910156,16.83359909,1140,1,E,Europe/Stockholm,airport,OurAirports
+730,Arvidsjaur Airport,Arvidsjaur,Sweden,AJR,ESNX,65.59030151,19.28190041,1245,1,E,Europe/Stockholm,airport,OurAirports
+731,Ã–rebro Airport,Orebro,Sweden,ORB,ESOE,59.22370148,15.03800011,188,1,E,Europe/Stockholm,airport,OurAirports
+733,Stockholm VÃ¤sterÃ¥s Airport,Vasteras,Sweden,VST,ESOW,59.58940125,16.63360023,21,1,E,Europe/Stockholm,airport,OurAirports
+734,LuleÃ¥ Airport,Lulea,Sweden,LLA,ESPA,65.54380035,22.12199974,65,1,E,Europe/Stockholm,airport,OurAirports
+735,Vidsel Air Base,Vidsel,Sweden,\N,ESPE,65.87529755,20.14990044,597,1,E,Europe/Stockholm,airport,OurAirports
+736,Arboga Airport,Arboga,Sweden,\N,ESQO,59.38660049,15.92409992,33,1,E,Europe/Stockholm,airport,OurAirports
+737,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,ESSA,59.65190125,17.91860008,137,1,E,Europe/Stockholm,airport,OurAirports
+738,Stockholm-Bromma Airport,Stockholm,Sweden,BMA,ESSB,59.35440063,17.94169998,47,1,E,Europe/Stockholm,airport,OurAirports
+739,Borlange Airport,Borlange,Sweden,BLE,ESSD,60.42200089,15.51519966,503,1,E,Europe/Stockholm,airport,OurAirports
+740,Hultsfred Airport,Hultsfred,Sweden,HLF,ESSF,57.525799,15.8233,366,1,E,Europe/Stockholm,airport,OurAirports
+741,GÃ¤vle Sandviken Airport,Gavle,Sweden,GVX,ESSK,60.59329987,16.95140076,224,1,E,Europe/Stockholm,airport,OurAirports
+742,LinkÃ¶ping City Airport,Linkoeping,Sweden,LPI,ESSL,58.40620041,15.68050003,172,1,E,Europe/Stockholm,airport,OurAirports
+743,NorrkÃ¶ping Airport,Norrkoeping,Sweden,NRK,ESSP,58.5862999,16.25060081,32,1,E,Europe/Stockholm,airport,OurAirports
+745,Eskilstuna Airport,Eskilstuna,Sweden,EKT,ESSU,59.35110092,16.70840073,139,1,E,Europe/Stockholm,airport,OurAirports
+746,Visby Airport,Visby,Sweden,VBY,ESSV,57.66279984,18.34620094,164,1,E,Europe/Stockholm,airport,OurAirports
+748,Kalixfors Airport,Kalixfors,Sweden,\N,ESUK,67.76480103,20.25720024,1549,1,E,Europe/Stockholm,airport,OurAirports
+750,Spangdahlem Air Base,Spangdahlem,Germany,SPM,ETAD,49.97269821,6.692500114,1197,1,E,Europe/Berlin,airport,OurAirports
+751,Ramstein Air Base,Ramstein,Germany,RMS,ETAR,49.43690109,7.600279808,776,1,E,Europe/Berlin,airport,OurAirports
+753,[Duplicate] Giebelstadt Army Air Field,Giebelstadt,Germany,GHF,ETEU,49.64810181,9.966489792,980,1,E,Europe/Berlin,airport,OurAirports
+754,BÃ¼ckeburg Air Base,Brueckeburg,Germany,\N,ETHB,52.2785,9.08217,230,1,E,Europe/Berlin,airport,OurAirports
+755,Celle Airport,Celle,Germany,ZCN,ETHC,52.59120178,10.02210045,129,1,E,Europe/Berlin,airport,OurAirports
+756,Rheine Bentlage Air Base,Rheine-brentlange,Germany,\N,ETHE,52.291199,7.387,129,1,E,Europe/Berlin,airport,OurAirports
+757,Fritzlar Airport,Fritzlar,Germany,FRZ,ETHF,51.1146,9.286,1345,1,E,Europe/Berlin,airport,OurAirports
+758,Laupheim Air Base,Laupheim,Germany,\N,ETHL,48.220299,9.91002,1766,1,E,Europe/Berlin,airport,OurAirports
+759,Mendig Airfield,Mendig,Germany,\N,ETHM,50.366001,7.31533,597,1,E,Europe/Berlin,airport,OurAirports
+760,Niederstetten Army Air Base,Niederstetten,Germany,\N,ETHN,49.391945,9.958889,1339,1,E,Europe/Berlin,airport,OurAirports
+761,Roth Airport,Roth,Germany,\N,ETHR,49.21749878,11.1001997,1268,1,E,Europe/Berlin,airport,OurAirports
+762,Fassberg Air Base,Fassberg,Germany,\N,ETHS,52.919399,10.185827,245,1,E,Europe/Berlin,airport,OurAirports
+763,Grafenwohr Army Air Field,Grafenwoehr,Germany,\N,ETIC,49.69869995,11.94019985,1363,1,E,Europe/Berlin,airport,OurAirports
+764,Hanau Army Air Field,Hanau,Germany,ZNF,ETID,50.169201,8.96159,368,1,E,Europe/Berlin,airport,OurAirports
+765,Hohenfels Army Air Field,Hohenfels,Germany,\N,ETIH,49.2181015,11.83609962,1455,1,E,Europe/Berlin,airport,OurAirports
+766,Flugplatz Kitzingen,Kitzingen,Germany,KZG,ETIN,49.743099,10.2006,689,1,E,Europe/Berlin,airport,OurAirports
+767,Nordholz Naval Airbase,Nordholz,Germany,FCN,ETMN,53.7677002,8.658499718,74,1,E,Europe/Berlin,airport,OurAirports
+768,Diepholz Air Base,Diepholz,Germany,\N,ETND,52.585556,8.342222,128,1,E,Europe/Berlin,airport,OurAirports
+769,Geilenkirchen Air Base,Geilenkirchen,Germany,GKE,ETNG,50.9608,6.04242,296,1,E,Europe/Berlin,airport,OurAirports
+770,Hohn Air Base,Hohn,Germany,\N,ETNH,54.312199,9.53817,39,1,E,Europe/Berlin,airport,OurAirports
+771,Jever Air Base,Jever,Germany,\N,ETNJ,53.533501,7.88867,24,1,E,Europe/Berlin,airport,OurAirports
+772,Rostock-Laage Airport,Laage,Germany,RLG,ETNL,53.91820145,12.27830029,138,1,E,Europe/Berlin,airport,OurAirports
+773,NÃ¶rvenich Air Base,Noervenich,Germany,\N,ETNN,50.8312,6.65817,386,1,E,Europe/Berlin,airport,OurAirports
+774,Schleswig Air Base,Schleswig,Germany,WBG,ETNS,54.459301,9.51633,70,1,E,Europe/Berlin,airport,OurAirports
+775,Wittmundhafen Airport,Wittmundhafen,Germany,\N,ETNT,53.54779816,7.667329788,26,1,E,Europe/Berlin,airport,OurAirports
+777,Wunstorf Air Base,Wunstorf,Germany,\N,ETNW,52.457298,9.42717,187,1,E,Europe/Berlin,airport,OurAirports
+778,Vilseck Army Air Field,Vilseck,Germany,\N,ETOI,49.63359833,11.76720047,1353,1,E,Europe/Berlin,airport,OurAirports
+779,Coleman Army Air Field,Coleman,Germany,\N,ETOR,49.56359863,8.46339035,309,1,E,Europe/Berlin,airport,OurAirports
+780,Wiesbaden Army Airfield,Wiesbaden,Germany,WIE,ETOU,50.04980087,8.325400352,461,1,E,Europe/Berlin,airport,OurAirports
+781,Landsberg Lech Air Base,Landsberg,Germany,\N,ETSA,48.070599,10.906,2044,1,E,Europe/Berlin,airport,OurAirports
+782,BÃ¼chel Air Base,Buechel,Germany,\N,ETSB,50.17380142,7.063330173,1568,1,E,Europe/Berlin,airport,OurAirports
+783,Erding Airport,Erding,Germany,\N,ETSE,48.32229996,11.94869995,1515,1,E,Europe/Berlin,airport,OurAirports
+784,FÃ¼rstenfeldbruck Air Base,Fuerstenfeldbruck,Germany,FEL,ETSF,48.205555,11.266944,1703,1,E,Europe/Berlin,airport,OurAirports
+785,Holzdorf Air Base,Holzdorf,Germany,\N,ETSH,51.767799,13.1677,265,1,E,Europe/Berlin,airport,OurAirports
+786,Ingolstadt Manching Airport,Ingolstadt,Germany,IGS,ETSI,48.71569824,11.5340004,1202,1,E,Europe/Berlin,airport,OurAirports
+787,Lechfeld Air Base,Lechfeld,Germany,\N,ETSL,48.185504,10.8612,1822,1,E,Europe/Berlin,airport,OurAirports
+788,Neuburg AFB,Neuburg,Germany,\N,ETSN,48.710999,11.2115,1249,1,E,Europe/Berlin,airport,OurAirports
+789,GÃ¼tersloh Air Base,Guetersloh,Germany,GUT,ETUO,51.922798,8.30633,236,1,E,Europe/Berlin,airport,OurAirports
+790,Alexander Bay Airport,Alexander Bay,South Africa,ALJ,FAAB,-28.575001,16.5333,98,2,U,Africa/Johannesburg,airport,OurAirports
+791,Aggeneys Airport,Aggeneys,South Africa,AGZ,FAAG,-29.28179932,18.81389999,2648,2,U,Africa/Johannesburg,airport,OurAirports
+792,Brakpan Airport,Brakpan,South Africa,\N,FABB,-26.23859978,28.30179977,5300,2,U,Africa/Johannesburg,airport,OurAirports
+793,Bisho Airport,Bisho,South Africa,BIY,FABE,-32.89709854,27.27910042,1950,2,U,Africa/Johannesburg,airport,OurAirports
+794,Bram Fischer International Airport,Bloemfontein,South Africa,BFN,FABL,-29.09269905,26.30240059,4458,2,U,Africa/Johannesburg,airport,OurAirports
+795,Bethlehem Airport,Bethlehem,South Africa,\N,FABM,-28.24839973,28.33609962,5561,2,U,Africa/Johannesburg,airport,OurAirports
+796,Hendrik Potgieter Airport,Bothaville,South Africa,\N,FABO,-27.36680031,26.62919998,4236,2,U,Africa/Johannesburg,airport,OurAirports
+797,Cape Town International Airport,Cape Town,South Africa,CPT,FACT,-33.96480179,18.60169983,151,2,U,Africa/Johannesburg,airport,OurAirports
+798,Calvinia Airport,Calvinia,South Africa,\N,FACV,-31.50029945,19.72590065,3250,2,U,Africa/Johannesburg,airport,OurAirports
+799,King Shaka International Airport,Durban,South Africa,DUR,FALE,-29.61444444,31.11972222,295,2,U,Africa/Johannesburg,airport,OurAirports
+800,Ben Schoeman Airport,East London,South Africa,ELS,FAEL,-33.03559875,27.82589912,435,2,U,Africa/Johannesburg,airport,OurAirports
+801,Ermelo Airport,Ermelo,South Africa,\N,FAEO,-26.49559975,29.97979927,5700,2,U,Africa/Johannesburg,airport,OurAirports
+802,Ficksburg Sentraoes Airport,Ficksburg,South Africa,FCB,FAFB,-28.82309914,27.90889931,5315,2,U,Africa/Johannesburg,airport,OurAirports
+803,Grand Central Airport,Johannesburg,South Africa,GCJ,FAGC,-25.98629951,28.14010048,5325,2,U,Africa/Johannesburg,airport,OurAirports
+804,George Airport,George,South Africa,GRJ,FAGG,-34.0056,22.378902,648,2,U,Africa/Johannesburg,airport,OurAirports
+806,Graaff Reinet Airport,Graaff Reinet,South Africa,\N,FAGR,-32.1935997,24.54140091,2604,2,U,Africa/Johannesburg,airport,OurAirports
+807,Grahamstown Airport,Grahamstown,South Africa,\N,FAGT,-33.28469849,26.49810028,2135,2,U,Africa/Johannesburg,airport,OurAirports
+808,Greytown Airport,Greytown,South Africa,\N,FAGY,-29.12199974,30.58670044,3531,2,U,Africa/Johannesburg,airport,OurAirports
+809,Harmony Airport,Harmony,South Africa,\N,FAHA,-28.07869911,26.86120033,4399,2,U,Africa/Johannesburg,airport,OurAirports
+810,Harrismith Airport,Harrismith,South Africa,HRS,FAHR,-28.23509979,29.10619926,5585,2,U,Africa/Johannesburg,airport,OurAirports
+811,Hoedspruit Air Force Base Airport,Hoedspruit,South Africa,HDS,FAHS,-24.36860085,31.04870033,1743,2,U,Africa/Johannesburg,airport,OurAirports
+812,Gariep Dam Airport,Hendrik Verwoerddam,South Africa,\N,FAHV,-30.56220055,25.52829933,4176,2,U,Africa/Johannesburg,airport,OurAirports
+813,OR Tambo International Airport,Johannesburg,South Africa,JNB,FAOR,-26.1392,28.246,5558,2,U,Africa/Johannesburg,airport,OurAirports
+814,P C Pelser Airport,Klerksdorp,South Africa,KXE,FAKD,-26.87109947,26.71800041,4444,2,U,Africa/Johannesburg,airport,OurAirports
+815,Kimberley Airport,Kimberley,South Africa,KIM,FAKM,-28.80279922,24.76519966,3950,2,U,Africa/Johannesburg,airport,OurAirports
+816,Krugersdorp Airport,Krugersdorp,South Africa,\N,FAKR,-26.08082592,27.72591496,5499,2,U,Africa/Johannesburg,airport,OurAirports
+817,Kroonstad Airport,Kroonstad,South Africa,\N,FAKS,-27.66060066,27.31579971,4700,2,U,Africa/Johannesburg,airport,OurAirports
+818,Johan Pienaar Airport,Kuruman,South Africa,KMH,FAKU,-27.45669937,23.41139984,4382,2,U,Africa/Johannesburg,airport,OurAirports
+819,Kleinsee Airport,Kleinsee,South Africa,KLZ,FAKZ,-29.68840027,17.09399986,270,2,U,Africa/Johannesburg,airport,OurAirports
+820,Lanseria Airport,Johannesburg,South Africa,HLA,FALA,-25.93849945,27.92609978,4517,2,U,Africa/Johannesburg,airport,OurAirports
+821,Lichtenburg Airport,Lichtenburg,South Africa,\N,FALI,-26.17569923,26.18460083,4875,2,U,Africa/Johannesburg,airport,OurAirports
+822,Makhado Air Force Base Airport,Lambertsbaai,South Africa,\N,FALM,-23.15990067,29.69650078,3069,2,U,Africa/Johannesburg,airport,OurAirports
+823,Langebaanweg Airport,Langebaanweg,South Africa,SDB,FALW,-32.96889877,18.1602993,108,2,U,Africa/Johannesburg,airport,OurAirports
+824,Ladysmith Airport,Ladysmith,South Africa,LAY,FALY,-28.58169937,29.74970055,3548,2,U,Africa/Johannesburg,airport,OurAirports
+825,Middelburg Airport,Middelburg,South Africa,\N,FAMB,-25.68479919,29.44020081,4886,2,U,Africa/Johannesburg,airport,OurAirports
+827,Margate Airport,Margate,South Africa,MGH,FAMG,-30.85740089,30.34300041,495,2,U,Africa/Johannesburg,airport,OurAirports
+828,Marble Hall Airport,Marble Hall,South Africa,\N,FAMI,-24.9890995,29.28310013,2980,2,U,Africa/Johannesburg,airport,OurAirports
+829,Majuba Power Station Airport,Majuba Power Station,South Africa,\N,FAMJ,-27.07929993,29.7784996,5600,2,U,Africa/Johannesburg,airport,OurAirports
+831,Riverside Airport,Malalane,South Africa,LLE,FAMN,-25.43000031,31.57670021,1024,2,U,Africa/Johannesburg,airport,OurAirports
+832,Morningside Farm Airport,Musina,South Africa,\N,FAMS,-25.7045002,26.9090004,4251,2,U,Africa/Johannesburg,airport,OurAirports
+833,Mkuze Airport,Mkuze,South Africa,MZQ,FAMU,-27.62610054,32.04430008,400,2,U,Africa/Johannesburg,airport,OurAirports
+834,Newcastle Airport,Newcastle,South Africa,NCS,FANC,-27.77059937,29.9769001,4074,2,U,Africa/Johannesburg,airport,OurAirports
+835,Nylstroom Airfield,Nylstroom,South Africa,\N,FANY,-24.68610001,28.43490028,3900,2,U,Africa/Johannesburg,airport,OurAirports
+836,Overberg Airport,Overberg,South Africa,OVG,FAOB,-34.55490112,20.2507,52,2,U,Africa/Johannesburg,airport,OurAirports
+837,Oudtshoorn Airport,Oudtshoorn,South Africa,OUH,FAOH,-33.60699844,22.18899918,1063,2,U,Africa/Johannesburg,airport,OurAirports
+838,Port Elizabeth Airport,Port Elizabeth,South Africa,PLZ,FAPE,-33.98490143,25.61730003,226,2,U,Africa/Johannesburg,airport,OurAirports
+839,Plettenberg Bay Airport,Plettenberg Bay,South Africa,PBZ,FAPG,-34.08816017,23.32872343,465,2,U,Africa/Johannesburg,airport,OurAirports
+840,Hendrik Van Eck Airport,Phalaborwa,South Africa,PHW,FAPH,-23.93720055,31.15539932,1432,2,U,Africa/Johannesburg,airport,OurAirports
+841,Pietersburg Municipal Airport,Polokwane,South Africa,\N,FAPI,-23.92609978,29.4843998,4354,2,U,Africa/Johannesburg,airport,OurAirports
+842,Port St Johns Airport,Port Saint Johns,South Africa,JOH,FAPJ,-31.60589981,29.51980019,1227,2,U,Africa/Johannesburg,airport,OurAirports
+843,Pietermaritzburg Airport,Pietermaritzburg,South Africa,PZB,FAPM,-29.64900017,30.39870071,2423,2,U,Africa/Johannesburg,airport,OurAirports
+844,Pilanesberg International Airport,Pilanesberg,South Africa,NTY,FAPN,-25.33379936,27.17340088,3412,2,U,Africa/Johannesburg,airport,OurAirports
+845,Polokwane International Airport,Potgietersrus,South Africa,PTG,FAPP,-23.845269,29.458615,4076,2,U,Africa/Johannesburg,airport,OurAirports
+846,Potchefstroom Airport,Potchefstroom,South Africa,PCF,FAPS,-26.67099953,27.08189964,4520,2,U,Africa/Johannesburg,airport,OurAirports
+847,Parys Airport,Parys,South Africa,\N,FAPY,-26.88929939,27.5034008,4740,2,U,Africa/Johannesburg,airport,OurAirports
+848,Queenstown Airport,Queenstown,South Africa,UTW,FAQT,-31.92020035,26.88220024,3637,2,U,Africa/Johannesburg,airport,OurAirports
+849,Richards Bay Airport,Richard's Bay,South Africa,RCB,FARB,-28.74099922,32.09209824,109,2,U,Africa/Johannesburg,airport,OurAirports
+850,Rustenburg Airport,Rustenburg,South Africa,\N,FARG,-25.64430046,27.27109909,3700,2,U,Africa/Johannesburg,airport,OurAirports
+851,Robertson Airport,Robertson,South Africa,ROD,FARS,-33.81219864,19.90279961,640,2,U,Africa/Johannesburg,airport,OurAirports
+852,Springbok Airport,Springbok,South Africa,SBU,FASB,-29.68930054,17.93959999,2690,2,U,Africa/Johannesburg,airport,OurAirports
+853,Secunda Airport,Secunda,South Africa,ZEC,FASC,-26.52409935,29.17009926,5250,2,U,Africa/Johannesburg,airport,OurAirports
+854,Saldanha /Vredenburg Airport,Saldanha,South Africa,\N,FASD,-32.96409988,17.96929932,50,2,U,Africa/Johannesburg,airport,OurAirports
+855,Springs Airfield,Springs,South Africa,\N,FASI,-26.24940047,28.39827156,5340,2,U,Africa/Johannesburg,airport,OurAirports
+856,Swartkop Air Force Base,Swartkop,South Africa,\N,FASK,-25.80970001,28.16460037,4780,2,U,Africa/Johannesburg,airport,OurAirports
+857,Sishen Airport,Sishen,South Africa,SIS,FASS,-27.64859962,22.9993,3848,2,U,Africa/Johannesburg,airport,OurAirports
+858,Hendrik Swellengrebel Airport,Swellendam,South Africa,\N,FASX,-34.0481987,20.47459984,407,2,U,Africa/Johannesburg,airport,OurAirports
+859,Skukuza Airport,Skukuza,South Africa,SZK,FASZ,-24.96089935,31.58869934,1020,2,U,Africa/Johannesburg,airport,OurAirports
+860,Tommys Field Airport,Tommy's Field,South Africa,\N,FATF,-28.26000023,22.9932003,4360,2,U,Africa/Johannesburg,airport,OurAirports
+861,New Tempe Airport,Bloemfontein,South Africa,\N,FATP,-29.03289986,26.1576004,4547,2,U,Africa/Johannesburg,airport,OurAirports
+862,Tutuka Power Station Airport,Tutuka,South Africa,\N,FATT,-26.77659988,29.33880043,5313,2,U,Africa/Johannesburg,airport,OurAirports
+863,Tzaneen Airport,Tzaneen,South Africa,LTA,FATZ,-23.82439995,30.32929993,1914,2,U,Africa/Johannesburg,airport,OurAirports
+864,Prince Mangosuthu Buthelezi Airport,Ulundi,South Africa,ULD,FAUL,-28.32060051,31.41650009,1720,2,U,Africa/Johannesburg,airport,OurAirports
+865,Pierre Van Ryneveld Airport,Upington,South Africa,UTN,FAUP,-28.39909935,21.2602005,2782,2,U,Africa/Johannesburg,airport,OurAirports
+866,K. D. Matanzima Airport,Umtata,South Africa,UTT,FAUT,-31.54636318,28.6733551,2400,2,U,Africa/Johannesburg,airport,OurAirports
+867,Vryburg Airport,Vryburg,South Africa,VRU,FAVB,-26.98240089,24.72879982,3920,2,U,Africa/Johannesburg,airport,OurAirports
+868,Virginia Airport,Durban,South Africa,VIR,FAVG,-29.77059937,31.0583992,20,2,U,Africa/Johannesburg,airport,OurAirports
+869,Vredendal Airport,Vredendal,South Africa,VRE,FAVR,-31.64100075,18.5447998,330,2,U,Africa/Johannesburg,airport,OurAirports
+870,Vereeniging Airport,Vereeniging,South Africa,\N,FAVV,-26.56640053,27.96080017,4846,2,U,Africa/Johannesburg,airport,OurAirports
+871,Wonderboom Airport,Pretoria,South Africa,PRY,FAWB,-25.6539,28.224199,4095,2,U,Africa/Johannesburg,airport,OurAirports
+872,Witbank Airport,Witbank,South Africa,\N,FAWI,-25.83230019,29.19199944,5078,2,U,Africa/Johannesburg,airport,OurAirports
+873,Waterkloof Air Force Base,Waterkloof,South Africa,WKF,FAWK,-25.82999992,28.22249985,4940,2,U,Africa/Johannesburg,airport,OurAirports
+874,Welkom Airport,Welkom,South Africa,\N,FAWM,-27.99682451,26.66333389,4421,2,U,Africa/Johannesburg,airport,OurAirports
+875,Ysterplaat Air Force Base,Ysterplaat,South Africa,\N,FAYP,-33.90019989,18.49830055,52,2,U,Africa/Johannesburg,airport,OurAirports
+876,Zeerust Airport,Zeerust,South Africa,\N,FAZR,-25.59900093,26.04229927,4258,2,U,Africa/Johannesburg,airport,OurAirports
+877,Francistown Airport,Francistown,Botswana,FRW,FBFT,-21.1595993,27.47450066,3283,2,U,Africa/Gaborone,airport,OurAirports
+878,Jwaneng Airport,Jwaneng,Botswana,JWA,FBJW,-24.60230064,24.69099998,3900,2,U,Africa/Gaborone,airport,OurAirports
+879,Kasane Airport,Kasane,Botswana,BBK,FBKE,-17.83289909,25.16239929,3289,2,U,Africa/Gaborone,airport,OurAirports
+880,Maun Airport,Maun,Botswana,MUB,FBMN,-19.97260094,23.43110085,3093,2,U,Africa/Gaborone,airport,OurAirports
+881,Sir Seretse Khama International Airport,Gaberone,Botswana,GBE,FBSK,-24.555201,25.9182,3299,2,U,Africa/Gaborone,airport,OurAirports
+882,Selebi Phikwe Airport,Selebi-phikwe,Botswana,PKW,FBSP,-22.0583,27.8288,2925,2,U,Africa/Gaborone,airport,OurAirports
+883,Maya-Maya Airport,Brazzaville,Congo (Brazzaville),BZV,FCBB,-4.251699924,15.25300026,1048,1,N,Africa/Brazzaville,airport,OurAirports
+884,Owando Airport,Owando,Congo (Kinshasa),FTX,FCOO,-0.5313500166,15.95009995,1214,1,N,Africa/Brazzaville,airport,OurAirports
+885,Ouesso Airport,Ouesso,Congo (Kinshasa),OUE,FCOU,1.615990043,16.03790092,1158,1,N,Africa/Brazzaville,airport,OurAirports
+886,Pointe Noire Airport,Pointe-noire,Congo (Brazzaville),PNR,FCPP,-4.816030025,11.88659954,55,1,N,Africa/Brazzaville,airport,OurAirports
+887,Matsapha Airport,Manzini,Swaziland,MTS,FDMS,-26.52899933,31.30750084,2075,2,U,Africa/Mbabane,airport,OurAirports
+888,Bangui M'Poko International Airport,Bangui,Central African Republic,BGF,FEFF,4.398479939,18.51880074,1208,1,N,Africa/Bangui,airport,OurAirports
+889,BerbÃ©rati Airport,Berberati,Central African Republic,BBT,FEFT,4.221580029,15.78639984,1929,1,N,Africa/Bangui,airport,OurAirports
+890,Bata Airport,Bata,Equatorial Guinea,BSG,FGBT,1.905470014,9.805680275,13,1,N,Africa/Malabo,airport,OurAirports
+891,Malabo Airport,Malabo,Equatorial Guinea,SSG,FGSL,3.755270004,8.708720207,76,1,N,Africa/Malabo,airport,OurAirports
+892,RAF Ascension Island,Wide Awake,Saint Helena,ASI,FHAW,-7.9696,-14.3937,278,0,N,Atlantic/St_Helena,airport,OurAirports
+893,Sir Seewoosagur Ramgoolam International Airport,Plaisance,Mauritius,MRU,FIMP,-20.430201,57.683601,186,4,N,Indian/Mauritius,airport,OurAirports
+894,Sir Charles Gaetan Duval Airport,Rodriguez Island,Mauritius,RRG,FIMR,-19.7577,63.361,95,4,N,Indian/Mauritius,airport,OurAirports
+895,Diego Garcia Naval Support Facility,Diego Garcia Island,British Indian Ocean Territory,NKW,FJDG,-7.31327,72.411102,9,6,U,Indian/Chagos,airport,OurAirports
+896,Tiko Airport,Tiko,Cameroon,TKC,FKKC,4.089190006,9.3605299,151,1,N,Africa/Douala,airport,OurAirports
+897,Douala International Airport,Douala,Cameroon,DLA,FKKD,4.006080151,9.719479561,33,1,N,Africa/Douala,airport,OurAirports
+898,Salak Airport,Maroua,Cameroon,MVR,FKKL,10.4513998,14.25739956,1390,1,N,Africa/Douala,airport,OurAirports
+899,Foumban Nkounja Airport,Foumban,Cameroon,FOM,FKKM,5.636919975,10.75080013,3963,1,N,Africa/Douala,airport,OurAirports
+900,N'GaoundÃ©rÃ© Airport,N'gaoundere,Cameroon,NGE,FKKN,7.357009888,13.55920029,3655,1,N,Africa/Douala,airport,OurAirports
+901,Garoua International Airport,Garoua,Cameroon,GOU,FKKR,9.335889816,13.37010002,794,1,N,Africa/Douala,airport,OurAirports
+902,Bafoussam Airport,Bafoussam,Cameroon,BFX,FKKU,5.536920071,10.35459995,4347,1,N,Africa/Douala,airport,OurAirports
+903,Bamenda Airport,Bamenda,Cameroon,BPC,FKKV,6.039239883,10.1225996,4065,1,N,Africa/Douala,airport,OurAirports
+904,YaoundÃ© Airport,Yaounde,Cameroon,YAO,FKKY,3.83604002,11.52350044,2464,1,N,Africa/Douala,airport,OurAirports
+905,Kasompe Airport,Kasompe,Zambia,CGJ,FLKE,-12.57279968,27.89389992,4636,2,U,Africa/Lusaka,airport,OurAirports
+906,Livingstone Airport,Livingstone,Zambia,LVI,FLLI,-17.82180023,25.8227005,3302,2,U,Africa/Lusaka,airport,OurAirports
+907,Kenneth Kaunda International Airport Lusaka,Lusaka,Zambia,LUN,FLLS,-15.33080006,28.45260048,3779,2,U,Africa/Lusaka,airport,OurAirports
+908,Mfuwe Airport,Mfuwe,Zambia,MFU,FLMF,-13.25889969,31.93659973,1853,2,U,Africa/Lusaka,airport,OurAirports
+909,Mongu Airport,Mongu,Zambia,MNR,FLMG,-15.25450039,23.16230011,3488,2,U,Africa/Lusaka,airport,OurAirports
+910,Simon Mwansa Kapwepwe International Airport,Ndola,Zambia,NLA,FLND,-12.99810028,28.66489983,4167,2,U,Africa/Lusaka,airport,OurAirports
+911,Southdowns Airport,Southdowns,Zambia,KIW,FLSO,-12.9005003,28.14990044,4145,2,U,Africa/Lusaka,airport,OurAirports
+912,Prince Said Ibrahim International Airport,Moroni,Comoros,HAH,FMCH,-11.5337,43.2719,93,3,U,Indian/Comoro,airport,OurAirports
+913,MohÃ©li Bandar Es Eslam Airport,Moheli,Comoros,NWA,FMCI,-12.29810047,43.76639938,46,3,U,Indian/Comoro,airport,OurAirports
+914,Ouani Airport,Anjouan,Comoros,AJN,FMCV,-12.13169956,44.43030167,62,3,U,Indian/Comoro,airport,OurAirports
+915,Dzaoudzi Pamandzi International Airport,Dzaoudzi,Mayotte,DZA,FMCZ,-12.8046999,45.28110123,23,3,U,Indian/Mayotte,airport,OurAirports
+916,Roland Garros Airport,St.-denis,Reunion,RUN,FMEE,-20.88710022,55.51029968,66,4,U,Indian/Reunion,airport,OurAirports
+917,Pierrefonds Airport,St.-pierre,Reunion,ZSE,FMEP,-21.32089996,55.42499924,59,4,U,Indian/Reunion,airport,OurAirports
+918,Ivato Airport,Antananarivo,Madagascar,TNR,FMMI,-18.7969,47.478802,4198,3,U,Indian/Antananarivo,airport,OurAirports
+919,Miandrivazo Airport,Miandrivazo,Madagascar,ZVA,FMMN,-19.56279945,45.45080185,203,3,U,Indian/Antananarivo,airport,OurAirports
+920,Sainte Marie Airport,Sainte Marie,Madagascar,SMS,FMMS,-17.09390068,49.81579971,7,3,U,Indian/Antananarivo,airport,OurAirports
+921,Toamasina Airport,Toamasina,Madagascar,TMM,FMMT,-18.10950089,49.39250183,22,3,U,Indian/Antananarivo,airport,OurAirports
+922,Morondava Airport,Morondava,Madagascar,MOQ,FMMV,-20.28470039,44.31760025,30,3,U,Indian/Antananarivo,airport,OurAirports
+923,Arrachart Airport,Antsiranana,Madagascar,DIE,FMNA,-12.34939957,49.29169846,374,3,U,Indian/Antananarivo,airport,OurAirports
+924,Mananara Nord Airport,Mananara,Madagascar,WMR,FMNC,-16.16390038,49.7737999,9,3,U,Indian/Antananarivo,airport,OurAirports
+925,Andapa Airport,Andapa,Madagascar,ZWA,FMND,-14.65170002,49.62060165,1552,3,U,Indian/Antananarivo,airport,OurAirports
+926,Ambilobe Airport,Ambilobe,Madagascar,AMB,FMNE,-13.18840027,48.98799896,72,3,U,Indian/Antananarivo,airport,OurAirports
+927,Antsirabato Airport,Antalaha,Madagascar,ANM,FMNH,-14.99940014,50.32020187,20,3,U,Indian/Antananarivo,airport,OurAirports
+928,Analalava Airport,Analalava,Madagascar,HVA,FMNL,-14.62969971,47.76380157,345,3,U,Indian/Antananarivo,airport,OurAirports
+929,Amborovy Airport,Mahajanga,Madagascar,MJN,FMNM,-15.66684174,46.35123253,87,3,U,Indian/Antananarivo,airport,OurAirports
+930,Fascene Airport,Nosy-be,Madagascar,NOS,FMNN,-13.31210041,48.31480026,36,3,U,Indian/Antananarivo,airport,OurAirports
+931,Besalampy Airport,Besalampy,Madagascar,BPY,FMNQ,-16.7445303,44.48248386,125,3,U,Indian/Antananarivo,airport,OurAirports
+932,Maroantsetra Airport,Maroantsetra,Madagascar,WMN,FMNR,-15.43669987,49.68830109,13,3,U,Indian/Antananarivo,airport,OurAirports
+933,Sambava Airport,Sambava,Madagascar,SVB,FMNS,-14.27859974,50.17470169,20,3,U,Indian/Antananarivo,airport,OurAirports
+934,Vohimarina Airport,Vohemar,Madagascar,VOH,FMNV,-13.37580013,50.00279999,19,3,U,Indian/Antananarivo,airport,OurAirports
+935,Ambalabe Airport,Antsohihy,Madagascar,WAI,FMNW,-14.8987999,47.9939003,92,3,U,Indian/Antananarivo,airport,OurAirports
+936,Ampampamena Airport,Ampampamena,Madagascar,IVA,FMNZ,-13.484816,48.632702,49,3,U,Indian/Antananarivo,airport,OurAirports
+937,TÃ´lanaro Airport,Tolagnaro,Madagascar,FTU,FMSD,-25.03809929,46.95610046,29,3,U,Indian/Antananarivo,airport,OurAirports
+938,Fianarantsoa Airport,Fianarantsoa,Madagascar,WFI,FMSF,-21.4416008,47.11169815,3658,3,U,Indian/Antananarivo,airport,OurAirports
+939,Farafangana Airport,Farafangana,Madagascar,RVA,FMSG,-22.80529976,47.8205986,26,3,U,Indian/Antananarivo,airport,OurAirports
+940,Manakara Airport,Manakara,Madagascar,WVK,FMSK,-22.11969948,48.02170181,33,3,U,Indian/Antananarivo,airport,OurAirports
+941,Mananjary Airport,Mananjary,Madagascar,MNJ,FMSM,-21.20179939,48.35829926,20,3,U,Indian/Antananarivo,airport,OurAirports
+942,Morombe Airport,Morombe,Madagascar,MXM,FMSR,-21.75390053,43.37549973,16,3,U,Indian/Antananarivo,airport,OurAirports
+943,Toliara Airport,Toliara,Madagascar,TLE,FMST,-23.38339996,43.72850037,29,3,U,Indian/Antananarivo,airport,OurAirports
+944,Mbanza Congo Airport,M'banza-congo,Angola,SSY,FNBC,-6.269899845,14.24699974,1860,1,N,Africa/Luanda,airport,OurAirports
+945,Benguela Airport,Benguela,Angola,BUG,FNBG,-12.60900021,13.40369987,118,1,N,Africa/Luanda,airport,OurAirports
+946,Cabinda Airport,Cabinda,Angola,CAB,FNCA,-5.596990108,12.18840027,66,1,N,Africa/Luanda,airport,OurAirports
+948,Nova Lisboa Airport,Huambo,Angola,NOV,FNHU,-12.80889988,15.76049995,5587,1,N,Africa/Luanda,airport,OurAirports
+949,Kuito Airport,Kuito,Angola,SVP,FNKU,-12.40460014,16.94739914,5618,1,N,Africa/Luanda,airport,OurAirports
+950,Lobito Airport,Lobito,Angola,\N,FNLB,-12.37119961,13.53660011,10,1,N,Africa/Luanda,airport,OurAirports
+951,Quatro de Fevereiro Airport,Luanda,Angola,LAD,FNLU,-8.85837,13.2312,243,1,N,Africa/Luanda,airport,OurAirports
+952,Malanje Airport,Malanje,Angola,MEG,FNMA,-9.525090218,16.31240082,3868,1,N,Africa/Luanda,airport,OurAirports
+953,Menongue Airport,Menongue,Angola,SPP,FNME,-14.6576004,17.71980095,4469,1,N,Africa/Luanda,airport,OurAirports
+955,Negage Airport,Negage,Angola,GXG,FNNG,-7.754509926,15.2876997,4105,1,N,Africa/Luanda,airport,OurAirports
+956,Porto Amboim Airport,Porto Amboim,Angola,PBN,FNPA,-10.72200012,13.76550007,16,1,N,Africa/Luanda,airport,OurAirports
+957,Saurimo Airport,Saurimo,Angola,VHC,FNSA,-9.689069748,20.43190002,3584,1,N,Africa/Luanda,airport,OurAirports
+958,Soyo Airport,Soyo,Angola,SZA,FNSO,-6.141089916,12.37180042,15,1,N,Africa/Luanda,airport,OurAirports
+959,Lubango Airport,Lubango,Angola,SDD,FNUB,-14.92469978,13.57499981,5778,1,N,Africa/Luanda,airport,OurAirports
+960,Luena Airport,Luena,Angola,LUO,FNUE,-11.76809978,19.89769936,4360,1,N,Africa/Luanda,airport,OurAirports
+961,Uige Airport,Uige,Angola,UGO,FNUG,-7.603069782,15.02779961,2720,1,N,Africa/Luanda,airport,OurAirports
+962,Xangongo Airport,Xangongo,Angola,XGN,FNXA,-16.7553997,14.96529961,3635,1,N,Africa/Luanda,airport,OurAirports
+963,Oyem Airport,Oyem,Gabon,OYE,FOGO,1.543110013,11.58139992,2158,1,N,Africa/Libreville,airport,OurAirports
+964,Okondja Airport,Okondja,Gabon,OKN,FOGQ,-0.6652140021,13.67310047,1325,1,N,Africa/Libreville,airport,OurAirports
+965,Lambarene Airport,Lambarene,Gabon,LBQ,FOGR,-0.7043889761,10.24569988,82,1,N,Africa/Libreville,airport,OurAirports
+966,Bitam Airport,Bitam,Gabon,BMM,FOOB,2.075639963,11.4932003,1969,1,N,Africa/Libreville,airport,OurAirports
+967,Port Gentil Airport,Port Gentil,Gabon,POG,FOOG,-0.7117390037,8.754380226,13,1,N,Africa/Libreville,airport,OurAirports
+968,Omboue Hopital Airport,Omboue Hospial,Gabon,OMB,FOOH,-1.574730039,9.26268959,33,1,N,Africa/Libreville,airport,OurAirports
+969,Makokou Airport,Makokou,Gabon,MKU,FOOK,0.5792109966,12.89089966,1726,1,N,Africa/Libreville,airport,OurAirports
+970,Libreville Leon M'ba International Airport,Libreville,Gabon,LBV,FOOL,0.4586000144,9.412280083,39,1,N,Africa/Libreville,airport,OurAirports
+971,M'Vengue El Hadj Omar Bongo Ondimba International Airport,Franceville,Gabon,MVB,FOON,-1.656159997,13.43799973,1450,1,N,Africa/Libreville,airport,OurAirports
+972,Principe Airport,Principe,Sao Tome and Principe,PCP,FPPR,1.662940025,7.411739826,591,0,N,Africa/Sao_Tome,airport,OurAirports
+973,SÃ£o TomÃ© International Airport,Sao Tome,Sao Tome and Principe,TMS,FPST,0.3781749904,6.712150097,33,0,N,Africa/Sao_Tome,airport,OurAirports
+974,Beira Airport,Beira,Mozambique,BEW,FQBR,-19.79640007,34.9076004,33,2,U,Africa/Maputo,airport,OurAirports
+976,Inhambane Airport,Inhambane,Mozambique,INH,FQIN,-23.87639999,35.40850067,30,2,U,Africa/Maputo,airport,OurAirports
+977,Lichinga Airport,Lichinga,Mozambique,VXC,FQLC,-13.274,35.2663,4505,2,U,Africa/Maputo,airport,OurAirports
+978,Lumbo Airport,Lumbo,Mozambique,LFB,FQLU,-15.03310013,40.67169952,33,2,U,Africa/Maputo,airport,OurAirports
+979,Maputo Airport,Maputo,Mozambique,MPM,FQMA,-25.920799,32.572601,145,2,U,Africa/Maputo,airport,OurAirports
+980,Mueda Airport,Mueda,Mozambique,MUD,FQMD,-11.6729002,39.56309891,2789,2,U,Africa/Maputo,airport,OurAirports
+981,MocÃ­mboa da Praia Airport,Mocimboa Da Praia,Mozambique,MZB,FQMP,-11.36180019,40.35490036,89,2,U,Africa/Maputo,airport,OurAirports
+982,Marrupa Airport,Marrupa,Mozambique,\N,FQMR,-13.22509956,37.55210114,2480,2,U,Africa/Maputo,airport,OurAirports
+983,Nacala Airport,Nacala,Mozambique,MNC,FQNC,-14.48820019,40.71220016,410,2,U,Africa/Maputo,airport,OurAirports
+984,Nampula Airport,Nampula,Mozambique,APL,FQNP,-15.10560036,39.28179932,1444,2,U,Africa/Maputo,airport,OurAirports
+985,Pemba Airport,Pemba,Mozambique,POL,FQPB,-12.99176216,40.52401352,331,2,U,Africa/Maputo,airport,OurAirports
+986,Quelimane Airport,Quelimane,Mozambique,UEL,FQQL,-17.85549927,36.86909866,36,2,U,Africa/Maputo,airport,OurAirports
+987,Songo Airport,Songo,Mozambique,\N,FQSG,-15.60270023,32.77320099,2904,2,U,Africa/Maputo,airport,OurAirports
+988,Chingozi Airport,Tete,Mozambique,TET,FQTT,-16.10479927,33.64020157,525,2,U,Africa/Maputo,airport,OurAirports
+989,Ulongwe Airport,Ulongwe,Mozambique,\N,FQUG,-14.70460033,34.35240173,4265,2,U,Africa/Maputo,airport,OurAirports
+990,Vilankulo Airport,Vilankulu,Mozambique,VNX,FQVL,-22.01840019,35.31330109,46,2,U,Africa/Maputo,airport,OurAirports
+991,Alphonse Airport,Alphonse,Seychelles,\N,FSAL,-7.00478,52.7262,10,4,U,Indian/Mahe,airport,OurAirports
+992,Desroches Airport,Desroches,Seychelles,DES,FSDR,-5.6967,53.6558,10,4,U,Indian/Mahe,airport,OurAirports
+993,Farquhar Airport,Farquhar,Seychelles,\N,FSFA,-10.1096,51.176102,10,4,U,Indian/Mahe,airport,OurAirports
+994,Seychelles International Airport,Mahe,Seychelles,SEZ,FSIA,-4.67434,55.521801,10,4,U,Indian/Mahe,airport,OurAirports
+995,Praslin Airport,Praslin,Seychelles,PRI,FSPP,-4.319290161,55.69139862,10,4,U,Indian/Mahe,airport,OurAirports
+996,Coetivy Airport,Coetivy,Seychelles,\N,FSSC,-7.13457,56.278198,10,4,U,Indian/Mahe,airport,OurAirports
+997,Abeche Airport,Abeche,Chad,AEH,FTTC,13.84700012,20.84429932,1788,1,N,Africa/Ndjamena,airport,OurAirports
+998,Moundou Airport,Moundou,Chad,MQQ,FTTD,8.624409676,16.07139969,1407,1,N,Africa/Ndjamena,airport,OurAirports
+999,N'Djamena International Airport,N'djamena,Chad,NDJ,FTTJ,12.1337,15.034,968,1,N,Africa/Ndjamena,airport,OurAirports
+1000,Faya Largeau Airport,Faya-largeau,Chad,FYT,FTTY,17.91710091,19.11109924,771,1,N,Africa/Ndjamena,airport,OurAirports
+1001,Joshua Mqabuko Nkomo International Airport,Bulawayo,Zimbabwe,BUQ,FVBU,-20.017401,28.617901,4359,2,U,Africa/Harare,airport,OurAirports
+1002,Charles Prince Airport,Harare,Zimbabwe,\N,FVCP,-17.75160027,30.92469978,4845,2,U,Africa/Harare,airport,OurAirports
+1003,Buffalo Range Airport,Chiredzi,Zimbabwe,BFO,FVCZ,-21.008101,31.5786,1421,2,U,Africa/Harare,airport,OurAirports
+1004,Victoria Falls International Airport,Victoria Falls,Zimbabwe,VFA,FVFA,-18.09589958,25.8390007,3490,2,U,Africa/Harare,airport,OurAirports
+1005,Robert Gabriel Mugabe International Airport,Harare,Zimbabwe,HRE,FVHA,-17.931801,31.0928,4887,2,U,Africa/Harare,airport,OurAirports
+1006,Kariba International Airport,Kariba,Zimbabwe,KAB,FVKB,-16.51980019,28.88500023,1706,2,U,Africa/Harare,airport,OurAirports
+1007,Mutoko Airport,Mutoko,Zimbabwe,\N,FVMT,-17.43190002,32.18450165,3950,2,U,Africa/Harare,airport,OurAirports
+1008,Mutare Airport,Mutare,Zimbabwe,UTA,FVMU,-18.99749947,32.62720108,3410,2,U,Africa/Harare,airport,OurAirports
+1009,Masvingo International Airport,Masvingo,Zimbabwe,MVZ,FVMV,-20.05529976,30.85910034,3595,2,U,Africa/Harare,airport,OurAirports
+1010,Zvishavane Airport,Zvishavane,Zimbabwe,\N,FVSH,-20.28949928,30.08819962,3012,2,U,Africa/Harare,airport,OurAirports
+1011,Thornhill Air Base,Gwert,Zimbabwe,GWE,FVTL,-19.43639946,29.86190033,4680,2,U,Africa/Harare,airport,OurAirports
+1012,Hwange National Park Airport,Hwange National Park,Zimbabwe,HWN,FVWN,-18.62989998,27.02099991,3543,2,U,Africa/Harare,airport,OurAirports
+1013,Chileka International Airport,Blantyre,Malawi,BLZ,FWCL,-15.67910004,34.97399902,2555,2,U,Africa/Blantyre,airport,OurAirports
+1014,Karonga Airport,Karonga,Malawi,KGJ,FWKA,-9.953570366,33.89300156,1765,2,U,Africa/Blantyre,airport,OurAirports
+1015,Kasungu Airport,Kasungu,Malawi,KBQ,FWKG,-13.0145998,33.46860123,3470,2,U,Africa/Blantyre,airport,OurAirports
+1016,Lilongwe International Airport,Lilongwe,Malawi,LLW,FWKI,-13.7894001,33.78099823,4035,2,U,Africa/Blantyre,airport,OurAirports
+1017,Mzuzu Airport,Mzuzu,Malawi,ZZU,FWUU,-11.44470024,34.01179886,4115,2,U,Africa/Blantyre,airport,OurAirports
+1018,Moshoeshoe I International Airport,Maseru,Lesotho,MSU,FXMM,-29.46229935,27.55249977,5348,2,U,Africa/Maseru,airport,OurAirports
+1019,Mejametalana Airbase,Maseru,Lesotho,\N,FXMU,-29.30410004,27.50349998,5105,2,U,Africa/Maseru,airport,OurAirports
+1020,Ndjili International Airport,Kinshasa,Congo (Kinshasa),FIH,FZAA,-4.38575,15.4446,1027,1,N,Africa/Kinshasa,airport,OurAirports
+1021,Ndolo Airport,Kinshasa,Congo (Kinshasa),NLO,FZAB,-4.326660156,15.32750034,915,1,N,Africa/Kinshasa,airport,OurAirports
+1022,Muanda Airport,Muanda,Congo (Kinshasa),MNB,FZAG,-5.930860043,12.35179996,89,1,N,Africa/Kinshasa,airport,OurAirports

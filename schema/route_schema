@@ -1,0 +1,9 @@
+airline string
+airline_id integer
+source_airport string
+source_airport_id integer
+destination_airport string
+destination_airport_id integer
+codeshare string
+stops string
+equipment string
